@@ -1,6 +1,6 @@
 # Lodestone: Manuscript Outline
 
-Working skeleton for the canonical operator methodology. Each section is scoped but unwritten. The structure may evolve as drafting reveals where the load actually sits.
+Working skeleton for the canonical operator methodology. Each section is scoped. Section V (Failure Shapes) and the Glossary are drafted as skeletons; the rest develop in later passes. The structure may evolve as drafting reveals where the load actually sits.
 
 ## Preface
 
@@ -39,7 +39,7 @@ The catalog of how work fails. Each shape with detection signature, what breaks,
 
 ## VI. Quality Levels
 
-Functional. Complete. Polished. Exceptional. The specificity tests for visual and structural work. Where each level applies. The structure test: is user data the structure, or filling a template.
+Functional. Complete. Polished. Exceptional. The specificity tests for visual and structural work. Where each level applies. The structure test: is user data the structure, or merely filling a template.
 
 ## VII. Surface Discipline
 

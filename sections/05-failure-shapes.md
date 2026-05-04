@@ -10,15 +10,15 @@ Ten shapes follow, each with the concept it names and a short detection signatur
 
 **Component over journey.** Treating a feature as the isolated component that implements it, missing the discovery and navigation that make it findable. Signature: only one or two files touched for a user-facing feature; the feature works at a URL but cannot be reached from the rest of the application.
 
-**Happy path only.** Verifying one kind of behavior and treating that as proof of all behaviors. Signature: a "done" claim with no paired statement of what was not verified; verification at one level treated as coverage of all levels.
+**Happy path only.** Verifying one kind of behavior and treating that as proof of all behaviors. Signature: a "done" claim with no paired statement of what was not verified.
 
 **Invention over replication.** Creating a new pattern when uniform established ones exist in the codebase. Signature: a new approach introduced without first surveying how similar features are implemented elsewhere.
 
-**Deletion without understanding.** Removing code that looks unused without verifying why it was added or what depends on it. Signature: code removed because it looks dead; no git blame check, no grep for callers, no test run after removal.
+**Deletion without understanding.** Removing code that looks unused without verifying why it was added or what depends on it. Signature: code removed because it looks dead; no git blame check, no grep for callers, no tests run after removal.
 
 **Assumption over verification.** Claiming how a system behaves without reading the actual source or output. Signature: a confident claim about behavior with no specific evidence cited from the code or logs.
 
-**Tunnel vision.** Pursuing the same approach despite repeated failures, without stepping back to consider alternatives. Signature: three or more attempts at the same fix; mounting frustration without altitude shift.
+**Tunnel vision.** Pursuing the same approach despite repeated failures, without stepping back to consider alternatives. Signature: three or more attempts at the same approach; no change in tactic between attempts.
 
 **Scope abandonment.** Committing to a scope, completing part of it, going silent, and moving to a new topic without stating progress. Signature: a stated multi-item plan, partial completion, and a topic change without a status update.
 

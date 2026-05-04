@@ -90,7 +90,17 @@ See [Section V](05-failure-shapes.md) for the canonical concept and detection si
 
 **Saturation and return.** A move when frame-stuck. Leave the failing frame entirely, saturate in an unrelated domain, return with fresh framing.
 
-## Compound practice captures
+## Compound practice
+
+**Compound practice.** The discipline of capturing failures, surfacing relevant context at the moment of action, and tracking patterns across sessions so each piece of work builds on prior learning.
+
+**The compound loop.** The cycle: capture failures, surface relevant context at the moment of action, catch the repeat, record the prevention. Each iteration strengthens the next.
+
+**Surfacing.** Bringing a prior capture into view when its context matches the current work. A miss recorded last week surfaces when an action today matches the conditions under which it was recorded.
+
+**Recurrence.** When a failure pattern repeats across captures. Recurrence indicates the prevention is not working and the relevant rule or warning needs sharpening.
+
+## Captures
 
 **Miss.** A captured failure: a specific case where the work fell short of what it intended. Recorded with the texture of the failure preserved (the conversation excerpt, the intended action, the corrected action).
 
@@ -99,13 +109,3 @@ See [Section V](05-failure-shapes.md) for the canonical concept and detection si
 **Rejection.** A captured elimination: an option considered and ruled out, with the reason. Survives session compaction so the elimination is not silently rebuilt.
 
 **Prevention.** A captured catch: a moment where a surfaced warning actually prevented a recurrence. Without prevention captures, compound learning is a claim; with them, it is evidence.
-
-## Compound loop
-
-**Compound practice.** The discipline of capturing failures, surfacing relevant context at the moment of action, and tracking patterns across sessions so each piece of work builds on prior learning.
-
-**Surfacing.** The act of making a relevant prior capture visible at the moment of current action. A miss recorded last week surfaces when its context matches the current work.
-
-**The compound loop.** The cycle: capture failures, surface relevant context at the moment of action, catch the repeat, record the prevention. Each iteration strengthens the next.
-
-**Recurrence.** When a failure pattern repeats across captures. Recurrence indicates the prevention is not working and the relevant rule or warning needs sharpening.
