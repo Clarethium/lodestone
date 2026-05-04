@@ -8,7 +8,7 @@ The operator stance has four directives. They are simple to state and difficult 
 
 The operator does not state how a system behaves without specific evidence from the system. AI output is not evidence about the system; it is a hypothesis about how the system might behave. Evidence comes from reading the actual code, running the actual command, observing the actual output.
 
-This applies to the operator's own claims and to AI-generated claims uniformly. When the AI says "this code calls X," that is a hypothesis worth checking, not a fact about the code. When the operator says "the function does Y," that statement is only as strong as the evidence read from the function. The asymmetry runs in one direction: AI output that contradicts evidence is wrong; AI output that matches evidence is at least confirmed against that evidence.
+This applies to the operator's own claims and to AI-generated claims uniformly. When the AI says "this code calls X," that is a hypothesis worth checking, not a fact about the code. When the operator says "the function does Y," that statement is only as strong as the evidence read from the function. The operator judges AI output by evidence, not evidence by AI output. Output that contradicts evidence is wrong; output that matches evidence is at least confirmed against that evidence.
 
 The directive does not preclude rapid work. It precludes claims without evidence. Rapid work that maintains evidence-for-claim is the goal; rapid work that asserts without checking is the failure.
 
