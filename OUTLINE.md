@@ -8,7 +8,7 @@ What this is. Who it is for. How to read it. The relationship to Touchstone, Whe
 
 ## I. Stance
 
-The default operator stance toward AI work. Evidence over assumption. Systems over tasks. Patterns over invention. Prevention over detection. The integrity principle: stated equals done.
+The default operator stance toward AI work. Evidence over assumption. Systems over tasks. Patterns over invention. Prevention over detection. The integrity principle: stated equals done. Drafted: see [sections/01-stance.md](sections/01-stance.md).
 
 ## II. The Loop
 
