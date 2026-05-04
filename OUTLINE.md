@@ -4,7 +4,7 @@ Working skeleton for the canonical operator methodology. Each section is scoped.
 
 ## Preface
 
-What this is. Who it is for. How to read it. The relationship to Touchstone, Whetstone, and cma.
+What this is. Who it is for. How to read it. The relationship to Touchstone, Whetstone, and cma. What this is not. Drafted: see [sections/00-preface.md](sections/00-preface.md).
 
 ## I. Stance
 
