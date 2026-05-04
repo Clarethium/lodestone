@@ -6,7 +6,7 @@ This document is a reference, not a tutorial. It defines the stance, the loop, t
 
 ## Who this is for
 
-The audience is senior operators: people whose work with AI systems is shaped continuously through repeated exchange with the model, and whose output quality depends on the discipline they bring to that exchange. Engineers, researchers, designers, writers, analysts. The work is recognizable. Each unit of output develops over many turns with an AI; the AI is capable and the work is non-trivial; quality varies in ways that track the operator's discipline as much as the model's capability.
+The audience is senior operators: people whose work with AI systems is shaped through repeated exchange with the model, and whose output quality depends on the discipline they bring to that exchange. Engineers, researchers, designers, writers, analysts. The work is recognizable. Each unit of output develops over many turns with the model; the model is capable and the work is non-trivial; quality varies in ways that track the operator's discipline as much as the model's capability.
 
 This document does not address operator skill at the level of "how to write a prompt." It addresses operator skill at the level of how to remain coherent across long sessions, how to detect when work is drifting before it fails, and how to make each piece of work compound on prior learning.
 
