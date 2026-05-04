@@ -24,7 +24,7 @@ Why long reasoning drifts. Altitude levels: meta, system, component, detail. The
 
 ## V. Failure Shapes
 
-The catalog of how work fails. Each shape with detection signature, what breaks, prevention pattern, recovery move.
+The catalog of how work fails. Each shape with detection signature, what breaks, prevention pattern, recovery move. Names locked: see [sections/05-failure-shapes.md](sections/05-failure-shapes.md). Detailed prevention and recovery write-ups come in later passes.
 
 - Speed over understanding
 - Component over journey
@@ -51,4 +51,4 @@ Capturing failures. Surfacing warnings at the moment of action. The compound loo
 
 ## IX. Glossary
 
-Vocabulary, alphabetized. Each term with one-line definition and pointer to the section where it is treated.
+Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Skeleton drafted: see [sections/glossary.md](sections/glossary.md). Terms refine as their sections develop.
