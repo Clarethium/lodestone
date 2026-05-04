@@ -12,7 +12,7 @@ The default operator stance toward AI work. Evidence over assumption. Systems ov
 
 ## II. The Loop
 
-Understand. Build. Verify. Record. Done. Where each step does its work. Where each step fails. The recording step as the link to compound practice.
+Understand. Build. Verify. Record. Done. Where each step does its work. Where each step fails. The recording step as the link to compound practice. Drafted: see [sections/02-the-loop.md](sections/02-the-loop.md).
 
 ## III. Calibration
 
