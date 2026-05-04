@@ -4,7 +4,7 @@ Working skeleton for the canonical operator methodology. Each section is scoped.
 
 ## Preface
 
-What this is. Who it is for. How to read it. The relationship to Touchstone, Whetstone, FieldReceipts, and cma.
+What this is. Who it is for. How to read it. The relationship to Touchstone, Whetstone, and cma.
 
 ## I. Stance
 

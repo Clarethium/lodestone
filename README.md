@@ -4,12 +4,11 @@ The canonical operator methodology for working with AI systems.
 
 ## What this is
 
-Lodestone names the practice that keeps work true to its frame. It is one of four reference artifacts published by Clarethium:
+Lodestone names the practice that keeps work true to its frame. It is one of three reference artifacts published by Clarethium:
 
 - **Touchstone** validates work against quality standards.
 - **Whetstone** sharpens craft.
 - **Lodestone** orients practice.
-- **FieldReceipts** holds the proof corpus.
 
 Lodestone defines the stance, the loop, the calibration, the failure shapes, and the compound practice that together compose disciplined work with AI systems.
 
