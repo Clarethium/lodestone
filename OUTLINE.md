@@ -47,7 +47,7 @@ High-risk surfaces and their protocols. Database. Auth and payments. Git write o
 
 ## VIII. Compound Practice
 
-Capturing failures. Surfacing warnings at the moment of action. The compound loop. Recurrence detection. Decision lifecycle. Prevention capture. Where cma fits as the executable companion.
+Capturing failures. Surfacing warnings at the moment of action. The compound loop. Recurrence detection. Decision lifecycle. Prevention capture. Where cma fits as the executable companion. Drafted: see [sections/08-compound-practice.md](sections/08-compound-practice.md).
 
 ## IX. Glossary
 
