@@ -44,6 +44,10 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 **Detail altitude.** Reasoning about exact implementation.
 
+**Altitude check.** Periodic action of asking: at what altitude am I currently operating? Is that the altitude this work needs? Triggered on cadence (every three to five substantive responses) or on entropy signals.
+
+**Entropy signals.** Observable conditions that reasoning has drifted: long response without goal reference, three or more iterations on the same narrow problem, a fix that removes the error without addressing the defect, a context switch, an "almost done" feeling without a fresh-eyes pass. Trigger an altitude check immediately.
+
 ## Quality levels
 
 **Functional.** Code runs, handles the happy path, is basically correct. The minimum bar.

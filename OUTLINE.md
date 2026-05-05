@@ -20,7 +20,7 @@ Uncertainty levels: low, medium, high, unknown. Uncertainty types: search versus
 
 ## IV. Altitude
 
-Why long reasoning drifts. Altitude levels: meta, system, component, detail. The altitude check. When to shift altitude. Entropy signals that warrant a check.
+Why long reasoning drifts. Altitude levels: meta, system, component, detail. The altitude check. When to shift altitude. Entropy signals that warrant a check. Drafted: see [sections/04-altitude.md](sections/04-altitude.md).
 
 ## V. Failure Shapes
 
