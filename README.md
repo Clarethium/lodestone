@@ -10,7 +10,7 @@ Lodestone names the practice that keeps work true to its frame. It is one of thr
 - **Whetstone** sharpens craft.
 - **Lodestone** orients practice.
 
-Lodestone defines the stance, the loop, the calibration, the failure shapes, and the compound practice that together compose disciplined work with AI systems.
+Lodestone defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice.
 
 This is a reference document, not a tutorial. Read it as you would read a field manual or a published standard: a citable canonical text for those ready to adopt the practice.
 
@@ -20,7 +20,7 @@ Senior operators whose work develops continuously through a loop with AI. The qu
 
 ## Structure
 
-See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents. Sections will populate as the manuscript develops.
+See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents.
 
 ## Companion
 

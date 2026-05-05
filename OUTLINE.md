@@ -1,6 +1,6 @@
 # Lodestone: Manuscript Outline
 
-Working skeleton for the canonical operator methodology. Each section is scoped. Section V (Failure Shapes) and the Glossary are drafted as skeletons; the rest develop in later passes. The structure may evolve as drafting reveals where the load actually sits.
+Table of contents for the canonical operator methodology. All nine sections drafted; the Glossary collects load-bearing vocabulary in one place.
 
 ## Preface
 
@@ -43,7 +43,7 @@ Functional. Complete. Polished. Exceptional. The specificity tests for visual an
 
 ## VII. Surface Discipline
 
-High-risk surfaces and their protocols. Database. Auth and payments. Git write operations. UI components. System internals and analysis. Pattern study and the five-file rule. The fresh eyes test. Drafted: see [sections/07-surface-discipline.md](sections/07-surface-discipline.md).
+High-risk surfaces and their protocols. Database. Auth and payments. Git write operations. UI components. System internals and analysis. Pattern Study and the five-file rule. The fresh-eyes test. Drafted: see [sections/07-surface-discipline.md](sections/07-surface-discipline.md).
 
 ## VIII. Compound Practice
 
@@ -51,4 +51,4 @@ Capturing failures. Surfacing warnings at the moment of action. The compound loo
 
 ## IX. Glossary
 
-Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Skeleton drafted: see [sections/glossary.md](sections/glossary.md). Terms refine as their sections develop.
+Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Drafted: see [sections/glossary.md](sections/glossary.md).

@@ -2,7 +2,7 @@
 
 Working with AI systems is a practice. Lodestone specifies the practice.
 
-This document is a reference, not a tutorial. It defines the stance, the loop, the calibration moves, the failure shapes, and the compound practice that compose disciplined work with AI systems. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses the part of the work that does not change with model capability: the operator's discipline.
+This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses the part of the work that does not change with model capability: the operator's discipline.
 
 ## Who this is for
 
@@ -28,7 +28,7 @@ Lodestone is one of three reference artifacts published by Clarethium:
 - **Whetstone** sharpens craft.
 - **Lodestone** orients practice.
 
-A fourth artifact, [cma](https://github.com/Clarethium/cma), is the executable companion. cma runs the compound practice loop on the operator's local machine, capturing failures and surfacing relevant context as the operator works. The methodology lives in Lodestone; the running implementation lives in cma.
+[cma](https://github.com/Clarethium/cma) is the executable companion. cma runs the compound practice loop on the operator's local machine, capturing failures and surfacing relevant context as the operator works. The methodology lives in Lodestone; the running implementation lives in cma.
 
 These artifacts are designed to compose. They can also be used independently. An operator can read Lodestone without running cma, or run cma without reading Lodestone in detail. They reinforce each other when used together.
 

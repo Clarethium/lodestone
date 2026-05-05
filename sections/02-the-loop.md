@@ -34,7 +34,7 @@ The fourth step is to capture what was learned. Capture decisions made during th
 
 This is the step most often skipped. Recording does not produce visible output for the current task; the operator's attention is already moving to the next task. Without recording, learning leaks.
 
-Record is the link to compound practice. Every recorded miss is a candidate for surfacing the next time conditions match. Every recorded decision is a candidate for re-application or reconsideration. Every recorded rejection is a barrier against silently rebuilding what was deliberately not built. The Compound Practice section (Section VIII) describes the mechanism; the discipline of using it begins here, at the Record step of every Loop.
+Record is the link to compound practice. Every recorded miss is a candidate for surfacing the next time conditions match. Every recorded decision is a candidate for re-application or reconsideration. Every recorded rejection is a barrier against silently rebuilding what was deliberately not built. Compound practice (Section VIII) describes the mechanism; the discipline of using it begins here, at the Record step of every Loop.
 
 The typical failure of this step is to skip it because the work feels complete after Verify. The cost of skipping is paid not in this Loop but in the next one, when the same failure recurs because nothing was captured to prevent it.
 

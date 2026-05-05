@@ -1,6 +1,6 @@
 # Glossary
 
-Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Definitions are tight; sections that treat each term in depth populate as the manuscript develops.
+Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Definitions are tight; cross-references throughout the document point to the section that treats each term in depth.
 
 ## The Loop and its steps
 
@@ -24,7 +24,21 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 **Operator.** The person whose judgment shapes work continuously through a loop with an AI system. The locus of practice; the methodology serves operator skill, not AI capability.
 
+**Stance.** The operator's disposition toward AI work, prior to any specific task. Composed of four directives (see Directives below). Stance is prior to method and prior to tactic.
+
 **Integrity principle.** The principle that claims and reality must match. Three formulas: stated equals done, scope committed equals scope completed, quality claimed equals quality demonstrated. A precondition for the rest of the methodology to work.
+
+## Directives
+
+The four directives that compose the operator stance. See [Section I](01-stance.md) for the full treatment of each.
+
+**Evidence over assumption.** Claims about a system require evidence from the system; AI output is hypothesis, not evidence.
+
+**Systems over tasks.** Tasks happen within systems; treating tasks as isolated produces components that fail in integration.
+
+**Patterns over invention.** When uniform patterns exist, follow them; new patterns are justified explicitly, not invented quietly.
+
+**Prevention over detection.** Prevent failures by understanding root causes; prevention scales, detection only catches what has happened before.
 
 ## Calibration
 
@@ -64,7 +78,7 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 ## Failure shapes
 
-See [Section V](05-failure-shapes.md) for the canonical concept and detection signature for each shape.
+See [Section V](05-failure-shapes.md) for the canonical concept, detection signature, prevention pattern, and recovery move for each shape.
 
 **Speed over understanding.** Starting work before grasping the system or the defect.
 

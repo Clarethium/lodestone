@@ -32,7 +32,7 @@ The shape of the directive is: study before invention. Pattern Study (Section VI
 
 The operator prefers preventing a failure to detecting it after the fact. Detection requires watching for symptoms; prevention requires understanding root causes. Prevention scales to failures that have not yet occurred; detection only catches failures that have happened before.
 
-The directive shapes how the operator records what they learn. A failure that is detected and not understood will recur. A failure that is detected, understood, and surfaced as a warning before the next operation that could repeat it will not. The compound practice section (Section VIII) describes the mechanism. The stance is what makes the operator use it.
+The directive shapes how the operator records what they learn. A failure that is detected and not understood will recur. A failure that is detected, understood, and surfaced as a warning before the next operation that could repeat it will not. Compound practice (Section VIII) describes the mechanism. The stance is what makes the operator use it.
 
 ## The integrity principle
 
