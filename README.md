@@ -4,10 +4,9 @@ The canonical operator methodology for working with AI systems.
 
 ## What this is
 
-Lodestone names the practice that keeps work true to its frame. It is one of three reference artifacts published by Clarethium:
+Lodestone names the practice that keeps work true to its frame. It is one of two open reference artifacts published by Clarethium:
 
 - **Touchstone** validates work against quality standards.
-- **Whetstone** sharpens craft.
 - **Lodestone** orients practice.
 
 Lodestone defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice.
@@ -24,10 +23,9 @@ See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents.
 
 ## Companions
 
-Lodestone composes with the other Clarethium reference artifacts:
+Lodestone composes with the other Clarethium open reference artifacts:
 
 - **[Touchstone](https://github.com/Clarethium/touchstone)**: third-person measurement of AI outputs. The substrate that pairs with Lodestone's first-person operator discipline.
-- **Whetstone**: craft sharpening. Currently at [`clarethium-app`](https://github.com/Clarethium/clarethium-app); rename to `whetstone` is planned.
 - **[cma](https://github.com/Clarethium/cma)**: executable compound-practice loop. The terminal-side instantiation of Lodestone's Section VIII.
 
 The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal.
