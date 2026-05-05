@@ -43,7 +43,7 @@ Functional. Complete. Polished. Exceptional. The specificity tests for visual an
 
 ## VII. Surface Discipline
 
-High-risk surfaces and their protocols. Database. Auth and payments. Git write operations. UI components. System internals and analysis. Pattern study and the five-file rule. The fresh eyes test.
+High-risk surfaces and their protocols. Database. Auth and payments. Git write operations. UI components. System internals and analysis. Pattern study and the five-file rule. The fresh eyes test. Drafted: see [sections/07-surface-discipline.md](sections/07-surface-discipline.md).
 
 ## VIII. Compound Practice
 
