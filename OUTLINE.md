@@ -39,7 +39,7 @@ The catalog of how work fails. Each shape with detection signature, what breaks,
 
 ## VI. Quality Levels
 
-Functional. Complete. Polished. Exceptional. The specificity tests for visual and structural work. Where each level applies. The structure test: is user data the structure, or merely filling a template.
+Functional. Complete. Polished. Exceptional. The specificity tests for visual and structural work. Where each level applies. The structure test: is user data the structure, or merely filling a template. Drafted: see [sections/06-quality-levels.md](sections/06-quality-levels.md).
 
 ## VII. Surface Discipline
 
