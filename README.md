@@ -22,9 +22,15 @@ Senior operators whose work develops continuously through a loop with AI. The qu
 
 See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents.
 
-## Companion
+## Companions
 
-Lodestone is paired with [cma](https://github.com/Clarethium/cma), the executable companion that runs the compound practice loop on the operator's machine.
+Lodestone composes with the other Clarethium reference artifacts:
+
+- **[Touchstone](https://github.com/Clarethium/touchstone)**: third-person measurement of AI outputs. The substrate that pairs with Lodestone's first-person operator discipline.
+- **Whetstone**: craft sharpening. Currently at [`clarethium-app`](https://github.com/Clarethium/clarethium-app); rename to `whetstone` is planned.
+- **[cma](https://github.com/Clarethium/cma)**: executable compound-practice loop. The terminal-side instantiation of Lodestone's Section VIII.
+
+The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal.
 
 ## License
 

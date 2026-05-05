@@ -24,8 +24,8 @@ This is a working reference. Where the document specifies, the wording is intent
 
 Lodestone is one of three reference artifacts published by Clarethium:
 
-- **Touchstone** validates work against quality standards.
-- **Whetstone** sharpens craft.
+- **[Touchstone](https://github.com/Clarethium/touchstone)** validates work against quality standards.
+- **[Whetstone](https://github.com/Clarethium/clarethium-app)** sharpens craft.
 - **Lodestone** orients practice.
 
 [cma](https://github.com/Clarethium/cma) is the executable companion. cma runs the compound practice loop on the operator's local machine, capturing failures and surfacing relevant context as the operator works. The methodology lives in Lodestone; the running implementation lives in cma.
