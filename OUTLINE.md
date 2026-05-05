@@ -24,7 +24,7 @@ Why long reasoning drifts. Altitude levels: meta, system, component, detail. The
 
 ## V. Failure Shapes
 
-The catalog of how work fails. Each shape with detection signature, what breaks, prevention pattern, recovery move. Names locked: see [sections/05-failure-shapes.md](sections/05-failure-shapes.md). Detailed prevention and recovery write-ups come in later passes.
+The catalog of how work fails. Each shape with concept, detection signature, prevention pattern, and recovery move. Drafted: see [sections/05-failure-shapes.md](sections/05-failure-shapes.md).
 
 - Speed over understanding
 - Component over journey
