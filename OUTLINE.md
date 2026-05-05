@@ -16,7 +16,7 @@ Understand. Build. Verify. Record. Done. Where each step does its work. Where ea
 
 ## III. Calibration
 
-Uncertainty levels: low, medium, high, unknown. Uncertainty types: search versus generate. Matching stance to conditions. Calibration when stuck. Saturation and return when frame-stuck.
+Uncertainty levels: low, medium, high, unknown. Uncertainty types: search versus generate. Matching stance to conditions. Calibration when stuck. Saturation and return when frame-stuck. Drafted: see [sections/03-calibration.md](sections/03-calibration.md).
 
 ## IV. Altitude
 
