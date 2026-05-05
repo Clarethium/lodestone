@@ -24,6 +24,8 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 **Operator.** The person whose judgment shapes work continuously through a loop with an AI system. The locus of practice; the methodology serves operator skill, not AI capability.
 
+**Integrity principle.** The principle that claims and reality must match. Three formulas: stated equals done, scope committed equals scope completed, quality claimed equals quality demonstrated. A precondition for the rest of the methodology to work.
+
 ## Calibration
 
 **Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. The prerequisite for everything else.
@@ -31,6 +33,8 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 **Search uncertainty.** A class of uncertainty where the answer exists and must be found. Calls for directed exploration and systematic verification.
 
 **Generate uncertainty.** A class of uncertainty where the answer is being constructed. Calls for open exploration, multiple drafts, permission to be wrong.
+
+**Frame-stuck.** The state in which multiple approaches keep failing the same way because the framing of the problem is itself wrong, not because of wrong stance. Recovered by saturation and return.
 
 ## Altitude
 
@@ -88,7 +92,7 @@ See [Section V](05-failure-shapes.md) for the canonical concept and detection si
 
 **Five-file rule.** User-facing features modify at least five files (data, API, page, navigation types, navigation UI). Touching only one or two files signals missing integration.
 
-**Fresh eyes test.** Approaching the work as if encountering it for the first time: find the feature via UI only, complete the workflow end-to-end, check for errors. The test that says ready or not.
+**Fresh-eyes test.** Approaching the work as if encountering it for the first time: find the feature via UI only, complete the workflow end-to-end, check for errors. The test that says ready or not.
 
 **Specificity test.** A test for whether output reaches past the default. If the work could exist identically in a generic context, it has not yet reached the territory the specific context opens.
 
