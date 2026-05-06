@@ -61,4 +61,4 @@ Methodological precursors and related work. Names the traditions that inform thi
 
 Provisional annexes that extend Lodestone's discipline into territory not yet validated by multi-operator practice. They are held separately from the canonical sections, and only promoted to canonical status after pilot evidence demonstrates the discipline.
 
-- **Collective Practice.** Extending compound practice across operators. Specimens and narratives. The collective loop. Crossings as evidence. Privacy as discipline. Forks and the absence of a single canonical corpus. Curation tiers. Aging. Where the cma corpus protocol fits as the implementation. Drafted: see [forward-looking/01-collective-practice.md](forward-looking/01-collective-practice.md).
+- **Collective Practice.** Extending compound practice across operators. Specimens and narratives. The collective loop. Crossings as evidence. Identity and openness. Privacy as discipline. Forks and the absence of a single canonical corpus. Curation tiers. Aging. Discipline and implementation. Drafted: see [forward-looking/01-collective-practice.md](forward-looking/01-collective-practice.md).

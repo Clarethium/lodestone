@@ -1,10 +1,10 @@
 # Collective Practice
 
-> **Status: forward-looking annex to Lodestone.** Describes a discipline whose multi-operator pilot has not yet run. Provisional: claims here are reasoned designs, not validated practice.
+> **Status: forward-looking annex to Lodestone.** Describes a discipline whose multi-operator pilot has not yet run. Provisional: claims here are reasoned designs, not validated practice. The annex uses present-tense definitional voice to describe the proposed mechanism. Where claims address what the system would produce or what value it would carry, conditional voice marks the gap.
 
 Compound practice (Section VIII) keeps the operator's captures private and surfaces them against the operator's own future actions. Collective practice extends the discipline across operators: failures observed by one operator can prevent failures in operators who never observed them. The mechanism is a shared corpus of abstracted failure specimens, contributed deliberately by participating operators and consumed alongside their own captures.
 
-This annex addresses what collective practice is and what it requires. The implementation is specified separately as the cma corpus protocol, which defines the wire format, the redaction pipeline, and the governance rules. The methodology does not require any specific corpus to exist; it specifies the discipline that any cross-operator compound-practice corpus should embody.
+This annex addresses what collective practice is and what it requires. Implementation specifics (wire format, redaction pipeline, governance rules) are out of scope here; the methodology specifies the discipline that any cross-operator compound-practice corpus should embody.
 
 ## What gets contributed
 
@@ -32,9 +32,9 @@ The collective loop extends the compound loop (Section VIII) with cross-operator
 2. **Aggregate.** The corpus collects signatures from many operators. Identical or near-identical patterns reinforce each other; rare patterns remain visible but flagged as singular.
 3. **Distribute.** Operators pull relevant specimens into their local surfacing layer.
 4. **Surface and catch.** A pulled specimen surfaces when its context matches a current action, the same way local misses surface. The catch is the operator's behavior changing due to a warning derived from another operator's failure.
-5. **Record the crossing.** The catch is recorded as a crossing: a prevention attributed to a non-self specimen. Crossings are the evidence that collective practice is more than a claim.
+5. **Record the crossing.** The catch is recorded as a crossing: a prevention attributed to a non-self specimen. Crossings would be the evidence that collective practice is more than a claim.
 
-A crossing is to collective practice what a prevention is to individual compound practice. Without crossings, the corpus is a published archive that no one acts on. With crossings, the archive prevents work the operator never observed in their own practice.
+A crossing is to collective practice what a prevention is to individual compound practice. Without crossings, the corpus would be a published archive that no one acts on. With crossings, the archive would prevent work the operator never observed in their own practice.
 
 ## Identity and openness
 
@@ -44,7 +44,7 @@ Collective practice requires a way to attribute contributions without forcing op
 
 **Contribution is open.** Anyone holding a key can submit. Reputation accumulates against the pseudonym based on accepted contributions, retracted contributions, and downstream citations. Reputation modulates trust: corpus consumers weight specimens partly by submitter reputation, and rate limits respond to abusive patterns. But reputation never gates submission itself. The corpus is not a gated club. Quality differentiation happens through curation, treated below in the tiered curation discipline, and through individual consumer trust thresholds; not through who is allowed to participate.
 
-These commitments age the discipline. Either alone is insufficient: pseudonymous-but-gated participation reproduces the gatekeeping of professional bodies; open-but-real-identity participation chills contribution from operators in sensitive domains. Together, they let the discipline scale without surrendering either privacy or quality.
+These commitments age the discipline. Either alone would be insufficient: pseudonymous-but-gated participation reproduces the gatekeeping of professional bodies; open-but-real-identity participation chills contribution from operators in sensitive domains. Together, they would let the discipline scale without surrendering either privacy or quality.
 
 ## Privacy as discipline
 
@@ -76,7 +76,7 @@ Not all contributions to a corpus serve the same role. The discipline distinguis
 
 The tiered structure mirrors the curation pattern of mature reference disciplines. Medical case literature has open case reports, peer-reviewed cases, and textbook canonical examples. Legal practice has reported cases, precedential cases, and landmark cases. The pattern works because consumers at different stages of practice need different quality bars. Early operators benefit from broad open contribution; experienced operators benefit from curated material; canonical material anchors training and benchmark construction.
 
-Tiers are not gates on contribution. Every signed submission enters at the open tier. Promotion upward is a curation event, not a contribution event, and depends on review process rather than on the submitter's standing. This preserves the openness commitment above while still producing a textbook-grade canon at the top of the curation stack.
+Tiers are not gates on contribution. Every signed submission enters at the open tier. Promotion upward is a curation event, not a contribution event, and depends on review process rather than on the submitter's standing. The structure preserves the openness commitment above while keeping the path to a textbook-grade canon at the top of the curation stack open.
 
 ## Aging
 
@@ -84,12 +84,12 @@ Failure shapes are time-bound to the systems they were observed against. A speci
 
 An aged-out specimen is not deleted; it is marked as historical. Citations resolve; surfacing weight drops. The corpus retains its archival function without polluting current surfacing.
 
-## Where the corpus protocol fits
+## Discipline and implementation
 
-Collective practice is a discipline. The cma corpus protocol is the implementation of that discipline as a wire format, a redaction pipeline, and a set of governance rules.
+Collective practice is a discipline. Any implementation of it (wire format, redaction pipeline, governance rules) is a separate concern from the discipline itself.
 
-The split is intentional. The discipline is canonical: the two contribution kinds, the operator-review boundary, the cross-operator surfacing principle, the crossing as evidence, the retraction and aging mechanisms. These are described in this annex as the methodology that any cross-operator compound-practice corpus should implement.
+The split is intentional. The discipline is canonical: the two contribution kinds, the operator-review boundary, the cross-operator surfacing principle, the crossing as evidence, the retraction and aging mechanisms. These are what this annex specifies, as the methodology any cross-operator compound-practice corpus should embody.
 
-The cma corpus protocol specifies the concrete realization: cryptographic identity, namespaced specimen IDs, the editorial board's role in curating canonical specimens, schema versioning rules. Operators who participate in a cma-protocol corpus run the discipline in a specific instantiation. The methodology in this annex does not require the cma protocol; an operator group can run collective practice with any implementation that holds the commitments named above.
+Implementation realizations (cryptographic schemes, identifier formats, editorial governance, schema versioning) are out of scope here. They are decisions made by particular implementations against the discipline. The methodology in this annex does not require any particular implementation; an operator group can run collective practice with any implementation that holds the commitments described above.
 
-The discipline is what matters; the protocol serves the discipline.
+The discipline is what matters; an implementation serves the discipline.
