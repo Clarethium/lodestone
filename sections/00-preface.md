@@ -2,7 +2,7 @@
 
 Working with AI systems is a practice. Lodestone specifies the practice.
 
-This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses the part of the work that does not change with model capability: the operator's discipline.
+This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, the compound practice, and the collective practice that extends the loop across operators. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses the part of the work that does not change with model capability: the operator's discipline.
 
 ## Who this is for
 
@@ -14,7 +14,7 @@ If you are new to working with AI, this is not the place to start. If you have w
 
 ## How to read this
 
-The document can be read in order or used as a reference. Read in order, it builds: stance precedes the loop; the loop precedes calibration; calibration precedes altitude; altitude precedes the catalog of failure shapes; the catalog precedes the quality levels; the quality levels precede the surface protocols; the surface protocols precede the compound practice that turns each session's work into next session's signal.
+The document can be read in order or used as a reference. Read in order, it builds: stance precedes the loop; the loop precedes calibration; calibration precedes altitude; altitude precedes the catalog of failure shapes; the catalog precedes the quality levels; the quality levels precede the surface protocols; the surface protocols precede the compound practice that turns each session's work into next session's signal; the compound practice precedes the collective practice that extends the same discipline across operators.
 
 Used as a reference, each section is independent. The Glossary lists every load-bearing term in one place; cross-references throughout the document point to the section that treats each term in depth.
 

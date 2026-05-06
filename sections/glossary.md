@@ -131,3 +131,15 @@ See [Section V](05-failure-shapes.md) for the canonical concept, detection signa
 **Rejection.** A captured elimination: an option considered and ruled out, with the reason. Survives session compaction so the elimination is not silently rebuilt.
 
 **Prevention.** A captured catch: a moment where a surfaced warning actually prevented a recurrence. Without prevention captures, compound learning is a claim; with them, it is evidence.
+
+## Collective practice
+
+**Collective practice.** The discipline of extending compound practice across operators: failures observed by one operator can prevent failures in operators who never observed them. Implemented through a shared corpus of abstracted failure specimens.
+
+**Corpus.** A shared store of failure specimens contributed by participating operators and consumed alongside their own captures. Multiple corpora can run the same protocol; no single corpus has structural authority over the discipline.
+
+**Specimen.** The abstracted form of a miss: failure mode, surface, structural pattern, and prevention, with paths, code, project, and operator identity removed. The unit of contribution to a corpus.
+
+**Narrative.** A longer, sanitized account of a specimen's circumstances, written deliberately by the operator and reviewed for identifying detail. Optional. The textbook material of collective practice; cited in operator reference works and used to construct evaluation cases.
+
+**Crossing.** A captured catch where the surfaced warning derived from another operator's specimen, not the operator's own captures. Crossings are to collective practice what preventions are to individual compound practice: the evidence that the discipline produces effect across the operator boundary.
