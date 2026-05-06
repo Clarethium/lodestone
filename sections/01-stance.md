@@ -6,9 +6,9 @@ The operator stance has four directives. They are simple to state and difficult 
 
 ## Frame-awareness
 
-Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the shape of the problem as currently seen, including which questions are being asked, which are not, and what counts as evidence. Frames are often invisible to the operator inside them. The basin a frame pulls toward (its default approach) captures work unexamined.
+Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the shape of the problem as currently seen, including which questions are being asked, which are not, and what counts as evidence. Frames are often invisible to the operator inside them. The basin a frame pulls toward (its default approach) captures unexamined work.
 
-The directives below presuppose frame-awareness. Without it, the directives are operated correctly inside an unexamined frame and the operator can produce competent work that solves the wrong problem cleanly. Several recovery moves elsewhere in this document operationalize frame-awareness for specific failures: saturation and return (Section III) recovers from frame-stuck, the altitude check (Section IV) detects when reasoning has drifted to the wrong altitude for the work, and basin capture (Section V) is the failure shape that frame-awareness most directly prevents.
+The directives below presuppose frame-awareness. Without it, the operator can follow the directives correctly inside an unexamined frame and produce competent work that solves the wrong problem cleanly. Several recovery moves elsewhere in this document operationalize frame-awareness for specific failures: saturation and return (Section III) recovers from frame-stuck, the altitude check (Section IV) detects when reasoning has drifted to the wrong altitude for the work, and basin capture (Section V) is the failure shape that frame-awareness most directly prevents.
 
 ## Evidence over assumption
 

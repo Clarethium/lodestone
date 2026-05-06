@@ -35,7 +35,7 @@ The auth anti-patterns:
 - No trusting client-side auth state
 - No user IDs in URLs without an auth check
 
-**Git write operations.** Operations that modify version control state can lose work or rewrite published history. The discipline: check status before any write; stage explicit files only, never `git add .` or `git reset HEAD`; do not touch files the operator did not modify without asking; when stuck, stop and state what is seen rather than guessing.
+**Git write operations.** Operations that modify version control state can lose work or rewrite published history. The discipline: check status before any write; stage explicit files only, never `git add .` or `git reset HEAD`; ask before touching files the operator did not modify; when stuck, stop and state what is seen rather than guessing.
 
 ## Other discipline surfaces
 

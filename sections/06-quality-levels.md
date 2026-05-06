@@ -10,7 +10,7 @@ The methodology distinguishes four quality levels. Each is a different bar for w
 
 **Polished.** Performance is acceptable. Accessibility is checked. Edge cases are covered. The work passes a self-review checklist for the surface it touches. Polished is the bar for work that the operator wants to be confident in for the long run.
 
-**Exceptional.** The work reaches territory that the default implementation cannot. The specific context (the specific user data, the specific problem, the specific constraints) has been used to produce something a generic implementation could not produce. Exceptional is reserved for work where stopping at Polished would be a missed opportunity that the context made available.
+**Exceptional.** The work reaches territory that the default implementation cannot. The specific context (user data, problem, constraints) has been used to produce something a generic implementation could not produce. Exceptional is reserved for work where stopping at Polished would be a missed opportunity that the context made available.
 
 ## Where each level applies
 
