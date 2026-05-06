@@ -8,6 +8,8 @@ Long reasoning drifts toward detail. Each turn engages a smaller problem than th
 
 The drift is not a failure of intelligence or attention. It is a structural property of long-context work, intensified by the AI environment where each model response is concrete and arrives quickly. Drift requires intervention; it does not stop on its own.
 
+The phenomenon corresponds to a cognitive-load shift in John Sweller's terms: at different altitudes, the same problem engages different element-interactivity loads. Detail altitude processes more elements at higher interactivity; meta and system altitudes process fewer at lower interactivity. Detail altitude is not harder absolutely; it is heavier on simultaneous element processing. The altitude check recovers by selecting an altitude where element-interactivity load matches the question.
+
 ## The four altitudes
 
 Reasoning operates at one of four altitudes at any moment:
@@ -27,6 +29,8 @@ The failure is not being at detail altitude. The failure is staying at detail al
 ## The altitude check
 
 The altitude check is the periodic action of asking: at what altitude am I currently operating? Is that the altitude this work needs?
+
+The check is reflection-in-action in Donald Schön's sense: questioning, mid-stream, the level at which the work is currently being framed. Where Schön frames reflection-in-action as the practitioner's response to surprise, the altitude check institutionalizes the same move on a regular cadence rather than waiting for surprise to trigger it.
 
 The check has two triggers:
 

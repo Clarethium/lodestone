@@ -32,6 +32,8 @@ The typical failure of this step is to verify the happy path and treat that as p
 
 The fourth step is to capture what was learned. Capture decisions made during the work. Capture the alternatives that were considered and ruled out. Capture failures encountered. Capture the surprising patterns or constraints that shaped the work.
 
+Recording is reflection-on-action in Donald Schön's sense (*The Reflective Practitioner*, 1983): post-hoc capture of what the work taught, distinct from reflection-in-action (the in-stream re-framing that the altitude check, Section IV, operationalizes on a regular cadence).
+
 This is the step most often skipped. Recording does not produce visible output for the current task; the operator's attention is already moving to the next task. Without recording, learning leaks.
 
 Record is the link to compound practice. Every recorded miss is a candidate for surfacing the next time conditions match. Every recorded decision is a candidate for re-application or reconsideration. Every recorded rejection is a barrier against silently rebuilding what was deliberately not built. Compound practice (Section VIII) describes the mechanism; the discipline of using it begins here, at the Record step of every Loop.

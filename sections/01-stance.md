@@ -2,11 +2,15 @@
 
 Stance is the operator's disposition toward AI work, prior to any specific task. It is prior to method and prior to tactic. The stance determines how the operator interprets uncertainty, how they treat AI output, how they decide when to verify, and how they recognize their own drift.
 
+The methodology frames operator-AI work as a coupled cognitive system rather than a tool-use relationship: the operator and the model engage in a continuous loop where each shapes the other's contribution. The framing extends Edwin Hutchins's distributed cognition (*Cognition in the Wild*, 1995) and Andy Clark's extended-mind thesis (*Supersizing the Mind*, 2008) to the operator-AI domain; the underlying claim that cognition is a property of human-tool-environment systems carries over directly. Stance is the operator's contribution to that system; it determines what the system as a whole produces.
+
 The operator stance has four directives. They are simple to state and difficult to hold under pressure. Most failures in operator-AI work come from a directive being heard once and not held in the moment when it would prevent the failure.
 
 ## Frame-awareness
 
 Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the shape of the problem as currently seen, including which questions are being asked, which are not, and what counts as evidence. Frames are often invisible to the operator inside them. The basin a frame pulls toward (its default approach) captures unexamined work.
+
+Frame-awareness draws on Donald Schön's frame reflection (*The Reflective Practitioner*, 1983; with Martin Rein, *Frame Reflection*, 1994): the practitioner's capacity to step back and notice the framing that has organized their approach to a problem, particularly when standard approaches are failing in ways the standard frame cannot diagnose.
 
 The directives below presuppose frame-awareness. Without it, the operator can follow the directives correctly inside an unexamined frame and produce competent work that solves the wrong problem cleanly. Several recovery moves elsewhere in this document operationalize frame-awareness for specific failures: saturation and return (Section III) recovers from frame-stuck, the altitude check (Section IV) detects when reasoning has drifted to the wrong altitude for the work, and basin capture (Section V) is the failure shape that frame-awareness most directly prevents.
 

@@ -2,6 +2,8 @@
 
 The Record step of the Loop (Section II) captures what the operator has learned. Compound practice is what those captures do next: surface relevant learning at the moment of future action, catch repeating failures before they happen, and accumulate evidence that the loop is closing. Without surfacing, recording produces an archive that is rarely read. With surfacing, the archive becomes a living instrument that catches repeats before they happen.
 
+Compound practice is deliberate practice (K. Anders Ericsson) shaped to the operator-AI loop. Like deliberate practice in other crafts, it is structured around feedback, oriented toward identified weaknesses (the captured misses), and instrumented for whether the practice produces improvement (recurrence detection and prevention captures, described below). What distinguishes compound practice from simple journaling is the surfacing layer: captures return at the moment future actions match their context, turning the archive into an active instrument rather than a passive record.
+
 The mechanism is described in this section. The implementation is cma (the executable companion to Lodestone), specified in its own repository. This section addresses what compound practice is and what it requires; the running implementation addresses how it is captured, indexed, and surfaced on the operator's machine.
 
 ## What gets captured
