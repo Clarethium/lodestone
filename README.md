@@ -9,7 +9,7 @@ Lodestone names the practice that keeps work true to its frame. It is one of two
 - **Touchstone** validates work against quality standards.
 - **Lodestone** orients practice.
 
-Lodestone defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, the compound practice, and the collective practice that extends the loop across operators.
+Lodestone defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice.
 
 This is a reference document, not a tutorial. Read it as you would read a field manual or a published standard: a citable canonical text for those ready to adopt the practice.
 
@@ -20,6 +20,8 @@ Senior operators whose work develops continuously through a loop with AI. The qu
 ## Structure
 
 See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents.
+
+A forward-looking annex on [collective practice](forward-looking/01-collective-practice.md) extends Lodestone's discipline into territory not yet validated by multi-operator pilot. The annex is provisional, held separately from the canonical sections, and evolves at its own pace as pilot evidence accumulates.
 
 ## Companions
 

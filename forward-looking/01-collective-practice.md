@@ -1,8 +1,10 @@
-# IX. Collective Practice
+# Collective Practice
+
+> **Status: forward-looking annex to Lodestone.** Describes a discipline whose multi-operator pilot has not yet run. Provisional: claims here are reasoned designs, not validated practice.
 
 Compound practice (Section VIII) keeps the operator's captures private and surfaces them against the operator's own future actions. Collective practice extends the discipline across operators: failures observed by one operator can prevent failures in operators who never observed them. The mechanism is a shared corpus of abstracted failure specimens, contributed deliberately by participating operators and consumed alongside their own captures.
 
-This section addresses what collective practice is and what it requires. The implementation is specified separately as the cma corpus protocol, which defines the wire format, the redaction pipeline, and the governance rules. The methodology does not require any specific corpus to exist; it specifies the discipline that any cross-operator compound-practice corpus should embody.
+This annex addresses what collective practice is and what it requires. The implementation is specified separately as the cma corpus protocol, which defines the wire format, the redaction pipeline, and the governance rules. The methodology does not require any specific corpus to exist; it specifies the discipline that any cross-operator compound-practice corpus should embody.
 
 ## What gets contributed
 
@@ -86,8 +88,8 @@ An aged-out specimen is not deleted; it is marked as historical. Citations resol
 
 Collective practice is a discipline. The cma corpus protocol is the implementation of that discipline as a wire format, a redaction pipeline, and a set of governance rules.
 
-The split is intentional. The discipline is canonical: the two contribution kinds, the operator-review boundary, the cross-operator surfacing principle, the crossing as evidence, the retraction and aging mechanisms. These are described in this section as the methodology that any cross-operator compound-practice corpus should implement.
+The split is intentional. The discipline is canonical: the two contribution kinds, the operator-review boundary, the cross-operator surfacing principle, the crossing as evidence, the retraction and aging mechanisms. These are described in this annex as the methodology that any cross-operator compound-practice corpus should implement.
 
-The cma corpus protocol specifies the concrete realization: cryptographic identity, namespaced specimen IDs, the editorial board's role in curating canonical specimens, schema versioning rules. Operators who participate in a cma-protocol corpus run the discipline in a specific instantiation. The methodology in this document does not require the cma protocol; an operator group can run collective practice with any implementation that holds the commitments named above.
+The cma corpus protocol specifies the concrete realization: cryptographic identity, namespaced specimen IDs, the editorial board's role in curating canonical specimens, schema versioning rules. Operators who participate in a cma-protocol corpus run the discipline in a specific instantiation. The methodology in this annex does not require the cma protocol; an operator group can run collective practice with any implementation that holds the commitments named above.
 
 The discipline is what matters; the protocol serves the discipline.

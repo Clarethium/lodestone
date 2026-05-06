@@ -1,6 +1,6 @@
 # Lodestone: Manuscript Outline
 
-Table of contents for the canonical operator methodology. All ten sections drafted; the Glossary collects load-bearing vocabulary in one place.
+Table of contents for the canonical operator methodology. Eight sections drafted plus a forward-looking annex; the Glossary collects load-bearing vocabulary in one place.
 
 ## Preface
 
@@ -49,10 +49,12 @@ High-risk surfaces and their protocols. Database. Auth and payments. Git write o
 
 Capturing failures. Surfacing warnings at the moment of action. The compound loop. Recurrence detection. Decision lifecycle. Prevention capture. Where cma fits as the executable companion. Drafted: see [sections/08-compound-practice.md](sections/08-compound-practice.md).
 
-## IX. Collective Practice
-
-Extending compound practice across operators. Specimens and narratives. The collective loop. Crossings as evidence. Privacy as discipline. Forks and the absence of a single canonical corpus. Aging. Where the cma corpus protocol fits as the implementation. Drafted: see [sections/09-collective-practice.md](sections/09-collective-practice.md).
-
-## X. Glossary
+## IX. Glossary
 
 Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Drafted: see [sections/glossary.md](sections/glossary.md).
+
+## Forward-looking annexes
+
+Provisional annexes that extend Lodestone's discipline into territory not yet validated by multi-operator practice. They are held separately from the canonical sections, and only promoted to canonical status after pilot evidence demonstrates the discipline.
+
+- **Collective Practice.** Extending compound practice across operators. Specimens and narratives. The collective loop. Crossings as evidence. Privacy as discipline. Forks and the absence of a single canonical corpus. Curation tiers. Aging. Where the cma corpus protocol fits as the implementation. Drafted: see [forward-looking/01-collective-practice.md](forward-looking/01-collective-practice.md).

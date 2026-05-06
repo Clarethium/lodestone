@@ -16,7 +16,7 @@ Compound practice records four kinds of material:
 
 **Preventions.** Catches where a surfaced warning prevented a recurrence. A prevention is the evidence that compound learning is more than a claim. Without prevention captures, the loop is open: warnings surface but their effect on operator behavior is unverified.
 
-The four together form the compound practice corpus. Misses are what failed. Decisions are what was chosen. Rejections are what was eliminated. Preventions are what was caught.
+The four together compose compound practice's captures. Misses are what failed. Decisions are what was chosen. Rejections are what was eliminated. Preventions are what was caught.
 
 ## Surfacing at the moment of action
 
