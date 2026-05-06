@@ -34,6 +34,16 @@ The collective loop extends the compound loop (Section VIII) with cross-operator
 
 A crossing is to collective practice what a prevention is to individual compound practice. Without crossings, the corpus is a published archive that no one acts on. With crossings, the archive prevents work the operator never observed in their own practice.
 
+## Identity and openness
+
+Collective practice requires a way to attribute contributions without forcing operators to identify themselves. The discipline holds two commitments that work together.
+
+**Identity is pseudonymous by default.** Each operator's contributions are signed under a stable identifier the operator controls, derived from a key held only by the operator. The pseudonym persists across contributions so that work accumulates against it without revealing the operator's name, employer, or context. Binding a real identity to that pseudonym is a separate, signed act, optional and reversible. An operator can contribute under pseudonym indefinitely; an operator who later wishes to claim or unclaim a real-identity binding can do so without affecting prior contributions.
+
+**Contribution is open.** Anyone holding a key can submit. Reputation accumulates against the pseudonym based on accepted contributions, retracted contributions, and downstream citations. Reputation modulates trust: corpus consumers weight specimens partly by submitter reputation, and rate limits respond to abusive patterns. But reputation never gates submission itself. The corpus is not a gated club. Quality differentiation happens through curation, treated below in the tiered curation discipline, and through individual consumer trust thresholds; not through who is allowed to participate.
+
+These commitments age the discipline. Either alone is insufficient: pseudonymous-but-gated participation reproduces the gatekeeping of professional bodies; open-but-real-identity participation chills contribution from operators in sensitive domains. Together, they let the discipline scale without surrendering either privacy or quality.
+
 ## Privacy as discipline
 
 Contribution raises a discipline question: what protects the operator's privacy, and what protects the corpus's integrity? The discipline answers in three commitments:
@@ -51,6 +61,20 @@ These commitments hold whether or not any particular implementation enforces the
 The discipline does not depend on a single canonical corpus existing. Multiple corpora can run the same protocol; specimens from one corpus can be cited and consumed independently of any other. The operator chooses which corpora to participate in based on their fit for the operator's domain, governance preferences, and trust assumptions.
 
 A reference corpus is useful for citation and curriculum because it is shared. It is not useful as a single point of authority. The discipline treats canonical status as earned through curation quality and contribution depth, not as a structural privilege of any one operator group.
+
+## Curation tiers
+
+Not all contributions to a corpus serve the same role. The discipline distinguishes three tiers:
+
+**Open contributions.** Any signed, accepted submission. Visible to consumers configuring their surfacing layer with low trust thresholds. The corpus's bulk lives at this tier; many open contributions corroborate each other and form the matchable pattern base.
+
+**Curated specimens.** Open contributions reviewed and confirmed by editorial process. Curation establishes that the specimen is well-written, sufficiently sanitized, and useful as reference material. Curated specimens are fit for citation in operator manuals and training material.
+
+**Canonical specimens.** A small subset of curated specimens promoted to canonical status by sustained editorial agreement. Canonical specimens become benchmark items, definitional examples in reference works, and primary teaching cases. Promotion is rare; canonical status is essentially permanent.
+
+The tiered structure mirrors the curation pattern of mature reference disciplines. Medical case literature has open case reports, peer-reviewed cases, and textbook canonical examples. Legal practice has reported cases, precedential cases, and landmark cases. The pattern works because consumers at different stages of practice need different quality bars. Early operators benefit from broad open contribution; experienced operators benefit from curated material; canonical material anchors training and benchmark construction.
+
+Tiers are not gates on contribution. Every signed submission enters at the open tier. Promotion upward is a curation event, not a contribution event, and depends on review process rather than on the submitter's standing. This preserves the openness commitment above while still producing a textbook-grade canon at the top of the curation stack.
 
 ## Aging
 
