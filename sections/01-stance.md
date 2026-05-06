@@ -4,6 +4,12 @@ Stance is the operator's disposition toward AI work, prior to any specific task.
 
 The operator stance has four directives. They are simple to state and difficult to hold under pressure. Most failures in operator-AI work come from a directive being heard once and not held in the moment when it would prevent the failure.
 
+## Frame-awareness
+
+Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the shape of the problem as currently seen, including which questions are being asked, which are not, and what counts as evidence. Frames are often invisible to the operator inside them. The basin a frame pulls toward (its default approach) captures work unexamined.
+
+The directives below presuppose frame-awareness. Without it, the directives are operated correctly inside an unexamined frame and the operator can produce competent work that solves the wrong problem cleanly. Several recovery moves elsewhere in this document operationalize frame-awareness for specific failures: saturation and return (Section III) recovers from frame-stuck, the altitude check (Section IV) detects when reasoning has drifted to the wrong altitude for the work, and basin capture (Section V) is the failure shape that frame-awareness most directly prevents.
+
 ## Evidence over assumption
 
 The operator does not state how a system behaves without specific evidence from the system. AI output is not evidence about the system; it is a hypothesis about how the system might behave. Evidence comes from reading the actual code, running the actual command, observing the actual output.

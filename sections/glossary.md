@@ -20,6 +20,8 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 **Frame.** The shape of the problem as currently seen: which questions are being asked, which are not, what counts as evidence. Frames are often invisible to the operator inside them.
 
+**Frame-awareness.** The discipline of noticing the frame the work is operating within, including the basin it pulls toward (see Basin capture). The foundational stance discipline (Section I).
+
 **Operator.** The person whose judgment shapes work continuously through a loop with an AI system. The locus of practice; the methodology serves operator skill, not AI capability.
 
 **Stance.** The operator's disposition toward AI work, prior to any specific task. Composed of four directives (see Directives below). Stance is prior to method and prior to tactic.
