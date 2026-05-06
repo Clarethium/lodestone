@@ -53,6 +53,10 @@ Capturing failures. Surfacing warnings at the moment of action. The compound loo
 
 Vocabulary used throughout this work. Each entry is a load-bearing term that recurs across sections. Drafted: see [sections/glossary.md](sections/glossary.md).
 
+## Influences
+
+Methodological precursors and related work. Names the traditions that inform this document's structure and vocabulary, without summarizing them. Drafted: see [sections/influences.md](sections/influences.md).
+
 ## Forward-looking annexes
 
 Provisional annexes that extend Lodestone's discipline into territory not yet validated by multi-operator practice. They are held separately from the canonical sections, and only promoted to canonical status after pilot evidence demonstrates the discipline.

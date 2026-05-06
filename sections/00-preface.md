@@ -40,3 +40,5 @@ Lodestone is not a curriculum. It does not progress the operator from beginner t
 Lodestone is not a manifesto. It does not claim that AI changes everything, or that the practices specified here are universal. It specifies a practice that has, for the operators this document addresses, produced better work; whether that practice generalizes more broadly is an empirical question.
 
 Lodestone is not a snapshot of one operator's habits. The document's specificity and abstraction are both intentional: specific where the rules hold across operators, abstract where adaptation is the right move.
+
+Lodestone is not a comprehensive treatment of the methodological tradition it draws on. The Influences section names the works that informed this document's structure and vocabulary; engagement with each is provisional and will deepen in subsequent versions.

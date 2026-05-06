@@ -36,7 +36,7 @@ The directive shapes how the operator records what they learn. A failure that is
 
 ## The integrity principle
 
-Three formulas hold the integrity principle:
+Three formulations hold the integrity principle:
 
 - **Stated equals done.** A claim of completion is only valid when the work it claims to describe has actually been done. Saying "I've recorded that" is not a recording; running the command is.
 - **Scope committed equals scope completed.** A commitment to do all of N items is fulfilled when N items are done, not when fewer are done and the topic changes.

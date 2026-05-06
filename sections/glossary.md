@@ -20,13 +20,11 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 **Frame.** The shape of the problem as currently seen: which questions are being asked, which are not, what counts as evidence. Frames are often invisible to the operator inside them.
 
-**Frame-awareness.** The discipline of noticing the frame in operation, including the basin it pulls toward. The foundational entry to disciplined operator-AI work.
-
 **Operator.** The person whose judgment shapes work continuously through a loop with an AI system. The locus of practice; the methodology serves operator skill, not AI capability.
 
 **Stance.** The operator's disposition toward AI work, prior to any specific task. Composed of four directives (see Directives below). Stance is prior to method and prior to tactic.
 
-**Integrity principle.** The principle that claims and reality must match. Three formulas: stated equals done, scope committed equals scope completed, quality claimed equals quality demonstrated. A precondition for the rest of the methodology to work.
+**Integrity principle.** The principle that claims and reality must match. Three formulations: stated equals done, scope committed equals scope completed, quality claimed equals quality demonstrated. A precondition for the rest of the methodology to work.
 
 ## Directives
 
@@ -42,7 +40,7 @@ The four directives that compose the operator stance. See [Section I](01-stance.
 
 ## Calibration
 
-**Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. The prerequisite for everything else.
+**Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. The prerequisite for the rest of the methodology to do useful work.
 
 **Search uncertainty.** A class of uncertainty where the answer exists and must be found. Calls for directed exploration and systematic verification.
 
@@ -108,7 +106,7 @@ See [Section V](05-failure-shapes.md) for the canonical concept, detection signa
 
 **Fresh-eyes test.** Approaching the work as if encountering it for the first time: find the feature via UI only, complete the workflow end-to-end, check for errors. The test that says ready or not.
 
-**Specificity test.** A test for whether output reaches past the default. If the work could exist identically in a generic context, it has not yet reached the territory the specific context opens.
+**Specificity test.** A test for whether output reaches past the default. Multiple specificity tests apply (see Section VI); the most diagnostic asks whether user data shapes the work or merely fills a template.
 
 **Saturation and return.** A move when frame-stuck. Leave the failing frame entirely, saturate in an unrelated domain, return with fresh framing.
 
