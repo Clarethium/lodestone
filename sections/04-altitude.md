@@ -8,7 +8,7 @@ Long reasoning drifts toward detail. Each turn engages a smaller problem than th
 
 The drift is not a failure of intelligence or attention. It is a structural property of long-context work, intensified by the AI environment where each model response is concrete and arrives quickly. Drift requires intervention; it does not stop on its own.
 
-The phenomenon corresponds to a cognitive-load shift in John Sweller's terms: at different altitudes, the same problem engages different element-interactivity loads. Detail altitude processes more elements at higher interactivity; meta and system altitudes process fewer at lower interactivity. Detail altitude is not harder absolutely; it is heavier on simultaneous element processing. The altitude check recovers by selecting an altitude where element-interactivity load matches the question.
+The phenomenon corresponds to a cognitive-load shift in John Sweller's terms: at different altitudes, the same problem engages different element-interactivity loads. Detail altitude processes more elements at higher interactivity; meta and system altitudes process fewer at lower interactivity. Detail altitude is not harder absolutely; it is heavier on simultaneous element processing. The altitude check recovers by selecting an altitude where element-interactivity load matches the question. Where Sweller's element-interactivity construct is most often used in instructional-design analysis to predict learning difficulty and sequence curriculum, lodestone applies it as a real-time self-diagnostic during long AI-coupled work sessions. The construct moves from third-person measurement of curriculum difficulty to first-person sensing of altitude drift in one's own reasoning.
 
 ## The four altitudes
 
