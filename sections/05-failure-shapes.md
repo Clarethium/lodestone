@@ -2,7 +2,7 @@
 
 Failure shapes are recurring patterns by which disciplined work breaks down. Each shape names a specific way the work pulls into something that looks complete but is not. Naming the shapes makes them visible; visible shapes are easier to detect early and recover from cleanly.
 
-The structure follows the recognition-primed decision pattern Gary Klein names in naturalistic decision research (*Sources of Power*, 1998): experts recognize a situation through its cues, and the typical action follows from recognition rather than from option comparison. The detection signature in each entry below is the cue that surfaces the shape; the prevention pattern is the typical action recognition makes available. The catalog is the operator's library of recognized shapes.
+The structure follows the recognition-primed decision pattern Gary Klein names in naturalistic decision research (*Sources of Power*, 1998): experts recognize a situation through its cues, and the typical action follows from recognition rather than from option comparison. The detection signature in each entry below is the cue that surfaces the shape; the prevention pattern is the typical action recognition makes available. Where Klein's RPD pattern matches a cue to a successful action, the failure-shapes catalog inverts polarity: each cue matches a recognized failure shape, and the action that follows is recovery rather than execution. The expertise-as-pattern-matching commitment is preserved; what changes is which polarity of patterns the operator's recognition library is built on. The catalog is the operator's library of recognized shapes.
 
 Ten shapes follow. Each entry has the concept, the detection signature, the prevention pattern, and the recovery move.
 
