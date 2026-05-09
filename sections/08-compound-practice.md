@@ -44,7 +44,7 @@ Each iteration strengthens the next. After enough iterations, a class of failure
 
 ## Recurrence and decision lifecycle
 
-Two derived signals from the compound loop matter for operator practice.
+Two derived signals from the compound loop matter for operator practice. The first, recurrence detection, pairs with prevention captures as the loop's dual evidence channels: prevention captures show what was caught, recurrence shows what was missed. Together they close the question of whether captured learning is reaching the operator's behavior.
 
 **Recurrence detection.** When a failure pattern repeats across captures, the system flags the recurrence. The flag is not a punishment; it is information. Recurrence indicates that the prevention currently in place is not working. The recovery is to sharpen the prevention: rewrite the warning text, change when it surfaces, change which actions trigger it, or retire it as ineffective and record a different prevention attempt.
 
