@@ -4,6 +4,8 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 
 ## The Loop and its steps
 
+See [Section II](02-the-loop.md) for the canonical treatment of the Loop and each of its steps.
+
 **The Loop.** The five-step cycle that governs disciplined work: understand the system and the task, build the part, verify it works, record what was learned, declare done. Each step has a stop condition; skipping a step loads risk into a later one.
 
 **Understand.** First loop step. Read the actual code, trace the user journey, find similar features, map integration points. Stops when the system is grasped, not when the task feels familiar.
@@ -17,6 +19,8 @@ Vocabulary used throughout this work. Each entry is a load-bearing term that rec
 **Done.** Fifth loop step. Declared only when the work would survive a fresh-eyes test and the verification gaps are explicit.
 
 ## Frame and stance
+
+See [Section I](01-stance.md) for the canonical treatment of frame-awareness, the operator stance, and the integrity principle.
 
 **Frame.** The shape of the problem as currently seen: which questions are being asked, which are not, what counts as evidence. Frames are often invisible to the operator inside them.
 
@@ -42,6 +46,8 @@ The four directives that compose the operator stance. See [Section I](01-stance.
 
 ## Calibration
 
+See [Section III](03-calibration.md) for the canonical treatment of calibration, uncertainty types, and saturation and return.
+
 **Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. The prerequisite for the rest of the methodology to do useful work.
 
 **Search uncertainty.** A class of uncertainty where the answer exists and must be found. Calls for directed exploration and systematic verification.
@@ -51,6 +57,8 @@ The four directives that compose the operator stance. See [Section I](01-stance.
 **Frame-stuck.** The state in which multiple approaches keep failing the same way because the framing of the problem is itself wrong, not because of wrong stance. Recovered by saturation and return.
 
 ## Altitude
+
+See [Section IV](04-altitude.md) for the canonical treatment of altitude levels, the altitude check, and entropy signals.
 
 **Altitude.** The level at which reasoning currently operates. Long reasoning drifts toward detail; periodic altitude checks restore breadth. Four levels: meta, system, component, detail.
 
@@ -67,6 +75,8 @@ The four directives that compose the operator stance. See [Section I](01-stance.
 **Entropy signals.** Observable conditions that reasoning has drifted: long response without goal reference, three or more iterations on the same narrow problem, a fix that removes the error without addressing the defect, a context switch, an "almost done" feeling without a fresh-eyes pass. Trigger an altitude check immediately.
 
 ## Quality levels
+
+See [Section VI](06-quality-levels.md) for the canonical treatment of the four levels and the specificity tests.
 
 **Functional.** Code runs, handles the happy path, is basically correct. The minimum bar.
 
@@ -102,6 +112,8 @@ See [Section V](05-failure-shapes.md) for the canonical concept, detection signa
 
 ## Practices and gates
 
+See [Section VII](07-surface-discipline.md) for Pattern Study, the five-file rule, and the fresh-eyes test. Specificity tests are in [Section VI](06-quality-levels.md); saturation and return is in [Section III](03-calibration.md).
+
 **Pattern Study.** The practice of finding three similar features in a codebase and reading their complete implementations before writing new code. Defense against invention over replication.
 
 **Five-file rule.** User-facing features modify at least five files (data, API, page, navigation types, navigation UI). Touching only one or two files signals missing integration.
@@ -114,6 +126,8 @@ See [Section V](05-failure-shapes.md) for the canonical concept, detection signa
 
 ## Compound practice
 
+See [Section VIII](08-compound-practice.md) for the canonical treatment of compound practice, the compound loop, surfacing, and the four capture types.
+
 **Compound practice.** The discipline of capturing failures, surfacing relevant context at the moment of action, and tracking patterns across sessions so each piece of work builds on prior learning.
 
 **The compound loop.** The cycle: capture failures, surface relevant context at the moment of action, catch the repeat, record the prevention. Each iteration strengthens the next.
@@ -123,6 +137,8 @@ See [Section V](05-failure-shapes.md) for the canonical concept, detection signa
 **Recurrence.** When a failure pattern repeats across captures. Recurrence indicates the prevention is not working and the relevant rule or warning needs sharpening.
 
 ## Captures
+
+See [Section VIII](08-compound-practice.md) for the canonical treatment of the four capture types.
 
 **Miss.** A captured failure: a specific case where the work fell short of what it intended. Recorded with the texture of the failure preserved (the conversation excerpt, the intended action, the corrected action).
 
