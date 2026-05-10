@@ -29,8 +29,9 @@ Lodestone composes with the other Clarethium open reference artifacts:
 
 - **[Touchstone](https://github.com/Clarethium/touchstone)**: third-person measurement of AI outputs. The substrate that pairs with Lodestone's first-person operator discipline.
 - **[cma](https://github.com/Clarethium/cma)**: executable compound-practice loop. The terminal-side instantiation of Lodestone's Section VIII.
+- **[Sealstone](https://github.com/Clarethium/sealstone)**: verification methodology for AI-assisted publish-class work. A specialization in the Lodestone tradition for the publish boundary; applies Lodestone's loop and surface-discipline patterns to release actions with publish-class-specific contributions on top (audience-scope categories, three-tier verification ladder, structured audit-ledger schema, world-state attestation).
 
-The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal.
+The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal. Sealstone is what running it at the publish boundary looks like.
 
 ## License
 
