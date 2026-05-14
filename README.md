@@ -1,6 +1,6 @@
 # Lodestone
 
-The canonical operator methodology for working with AI systems.
+Operator methodology for working with AI systems.
 
 ## What this is
 
@@ -11,7 +11,7 @@ Lodestone names the practice that keeps work true to its frame. It is one of two
 
 Lodestone defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice.
 
-This is a reference document, not a tutorial. Read it as you would read a field manual or a published standard: a citable canonical text for those ready to adopt the practice.
+This is a reference, not a tutorial. Read it as you would read a field manual or a published standard. The audience is operators ready to adopt the practice.
 
 ## Who this is for
 
@@ -25,13 +25,12 @@ A forward-looking annex on [collective practice](forward-looking/01-collective-p
 
 ## Companions
 
-Lodestone composes with the other Clarethium open reference artifacts:
+Lodestone composes with the other open Clarethium artifacts:
 
 - **[Touchstone](https://github.com/Clarethium/touchstone)**: third-person measurement of AI outputs. The substrate that pairs with Lodestone's first-person operator discipline.
 - **[cma](https://github.com/Clarethium/cma)**: executable compound-practice loop. The terminal-side instantiation of Lodestone's Section VIII.
-- **[Sealstone](https://github.com/Clarethium/sealstone)**: verification methodology for AI-assisted publish-class work. A specialization in the Lodestone tradition for the publish boundary; applies Lodestone's loop and surface-discipline patterns to release actions with publish-class-specific contributions on top (audience-scope categories, three-tier verification ladder, structured audit-ledger schema, world-state attestation).
 
-The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal. Sealstone is what running it at the publish boundary looks like.
+The methodology lives in Lodestone. cma is what running that methodology looks like in a terminal.
 
 ## License
 

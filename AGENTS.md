@@ -82,14 +82,15 @@ Subtract over substitute: when removing one of these, delete the sentence and re
 
 ## Verification before commit
 
-Run the canon audit:
+Run the canon audit on the working tree:
 
 ```bash
-bash scripts/canon_audit.sh --self-test   # verify the audit catches every forbidden shape
-bash scripts/canon_audit.sh               # check the working tree
+bash scripts/canon_audit.sh
 ```
 
-Both must exit 0. The self-test runs the audit against `scripts/canon_audit_known_leaks.txt` (the fixture lists every shape forbidden above) and confirms the pattern set still catches all of them. The working-tree check verifies your changes don't introduce new violations.
+This must exit 0. The audit verifies your changes don't introduce new violations.
+
+The audit script also has a `--self-test` mode that validates its regex set against a known-leaks fixture maintained outside this repository. CI does not run the self-test. When modifying `scripts/canon_audit.sh` itself, run the self-test locally before committing.
 
 False positives can be tagged with an inline comment: `# canon-exempt: <reason>`. The reason is mandatory; bare `# canon-exempt:` without a reason is rejected.
 

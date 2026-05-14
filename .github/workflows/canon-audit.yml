@@ -14,8 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Self-test (audit's own pattern set still detects every shape)
-        run: bash scripts/canon_audit.sh --self-test
-
       - name: Audit working tree (zero non-allowlisted hits required)
         run: bash scripts/canon_audit.sh

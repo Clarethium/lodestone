@@ -1,10 +1,10 @@
 # Lodestone: Manuscript Outline
 
-Table of contents for the canonical operator methodology. Eight sections drafted plus a forward-looking annex; the Glossary collects load-bearing vocabulary in one place.
+Table of contents for the operator methodology. Eight sections drafted plus a forward-looking annex; the Glossary collects load-bearing vocabulary in one place.
 
 ## Preface
 
-What this is. Who it is for. How to read it. The relationship to Touchstone, Whetstone, and cma. What this is not. Drafted: see [sections/00-preface.md](sections/00-preface.md).
+What this is. Who it is for. How to read it. The relationship to Touchstone and cma. What this is not. Drafted: see [sections/00-preface.md](sections/00-preface.md).
 
 ## I. Stance
 

@@ -9,3 +9,5 @@ venv/
 .tox/
 .coverage
 htmlcov/
+scripts/canon_audit_known_leaks.txt
+tests/fixtures/canon_audit_known_leaks.txt

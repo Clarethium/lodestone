@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 # canon_audit.sh — public-canon §3c + §5b audit.
 #
-# Canonical operator-side copy. Each Clarethium public repo carries an
-# exact copy at `scripts/canon_audit.sh`. A drift between this file and
-# the per-repo copy is a process bug; sync via:
+# Per-repo copy of the centrally maintained audit script. The maintenance
+# source lives outside this repository; copies in public repos should
+# match the upstream version. A drift between this file and the upstream
+# copy is a process bug.
 #
-#   cp ~/.claude/clarethium-internal/canon_audit.sh <repo>/scripts/canon_audit.sh
-#   cp ~/.claude/clarethium-internal/canon_audit_known_leaks.txt \
-#      <repo>/tests/fixtures/canon_audit_known_leaks.txt
+# The known-leaks fixture used by --self-test is maintained alongside the
+# upstream script and is NOT synced into public repos. The script's
+# --self-test mode falls back to the upstream fixture path when invoked
+# locally.
 #
-# Run from a Clarethium public repo root.
+# Run from a public repo root.
 #
 # Modes:
 #   ./canon_audit.sh                Full audit. Exit 0 = clean, 1 = hits.
