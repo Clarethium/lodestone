@@ -138,6 +138,8 @@ See [Section VIII](08-compound-practice.md) for the canonical treatment of compo
 
 **Surfacing.** Bringing a prior capture into view when its context matches the current work. A miss recorded last week surfaces when an action today matches the conditions under which it was recorded.
 
+**Texture.** The situational detail of a captured failure: what the operator was about to do, what they did instead after correction, the conditions that produced the drift. Surfacing matches captures partly by texture, not just keywords.
+
 **Recurrence.** When a failure pattern repeats across captures. Recurrence indicates the prevention is not working and the relevant rule or warning needs sharpening.
 
 ## Captures

@@ -20,7 +20,7 @@ Narratives are optional. A specimen without a narrative is still useful for matc
 
 ## What gets consumed
 
-A participating operator pulls specimens from the corpus into their local surfacing layer. A pulled specimen is treated by the surfacing mechanism (Section VIII) the same way as a local miss, with one addition: the source is marked. The operator sees that the warning derives from another operator's specimen, and how many corroborating signatures exist. Both signals modulate trust: a specimen with many corroborating signatures describes a near-universal failure shape; a specimen with one describes a pattern that may be local.
+A participating operator pulls specimens from the corpus into their local surfacing layer. A pulled specimen is treated by the surfacing mechanism (Section VIII) the same way as a local miss, with one addition: the source is marked. The operator sees that the warning derives from another operator's specimen, and how many corroborating signatures exist. By design, both signals modulate trust: many corroborating signatures indicate a near-universal failure shape; one signature indicates a pattern that may be local.
 
 Consumption is filtered. An operator pulls specimens by surface and failure mode relevant to their work, not the entire corpus. The local mirror is incremental and small.
 
