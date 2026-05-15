@@ -8,7 +8,7 @@ The operator stance has four directives. They are simple to state and difficult 
 
 ## Frame-awareness
 
-Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the shape of the problem as currently seen, including which questions are being asked, which are not, and what counts as evidence. Frames are often invisible to the operator inside them. The basin a frame pulls toward (its default approach) captures unexamined work.
+Underlying the four directives is frame-awareness: the discipline of noticing the frame the work is operating within. A frame is the implicit configuration of a problem: which questions are being asked, which approaches are being considered, what counts as evidence. Frames form from prior assumptions, experience, and recent context; they are invisible to the operator inside them until something forces re-framing. The basin a frame pulls toward (its default approach) captures unexamined work.
 
 Frame-awareness draws on Donald Schön's frame reflection (*The Reflective Practitioner*, 1983; with Martin Rein, *Frame Reflection*, 1994): the practitioner's capacity to step back and notice the framing that has organized their approach to a problem, particularly when standard approaches are failing in ways the standard frame cannot diagnose.
 

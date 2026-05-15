@@ -22,9 +22,11 @@ See [Section II](02-the-loop.md) for the canonical treatment of the Loop and eac
 
 See [Section I](01-stance.md) for the canonical treatment of frame-awareness, the operator stance, and the integrity principle.
 
-**Frame.** The shape of the problem as currently seen: which questions are being asked, which are not, what counts as evidence. Frames are often invisible to the operator inside them.
+**Frame.** The implicit configuration of a problem: which questions are being asked, which approaches are being considered, what counts as evidence. Frames form from prior assumptions, experience, and recent context; they are invisible to the operator inside them until something forces re-framing.
 
 **Frame-awareness.** The discipline of noticing the frame the work is operating within, including the basin it pulls toward (see Basin capture). The foundational stance discipline (Section I).
+
+**Basin.** The default approach a frame pulls toward without examination. Basin capture (Section V) is the failure shape that settling for the basin produces.
 
 **Operator.** The person whose judgment shapes work continuously through a loop with an AI system. The locus of practice; the methodology serves operator skill, not AI capability.
 
@@ -48,7 +50,7 @@ The four directives that compose the operator stance. See [Section I](01-stance.
 
 See [Section III](03-calibration.md) for the canonical treatment of calibration, uncertainty types, and saturation and return.
 
-**Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. The prerequisite for the rest of the methodology to do useful work.
+**Calibration.** Matching stance to actual conditions. Wrong stance applied to right conditions, or right stance to wrong conditions, both fail. A prerequisite for the methodology to do useful work.
 
 **Search uncertainty.** A class of uncertainty where the answer exists and must be found. Calls for directed exploration and systematic verification.
 
@@ -85,6 +87,8 @@ See [Section VI](06-quality-levels.md) for the canonical treatment of the four l
 **Polished.** Performance acceptable, accessibility checked, edge cases covered. Passes the self-review checklist.
 
 **Exceptional.** Reaches territory the default implementation cannot. Reserved for critical or visible features where the specific context opens something the generic version cannot reach.
+
+**Default implementation.** The output a competent operator would produce given the same brief without exploiting what the specific context makes possible. Specificity tests check whether work has reached past this baseline.
 
 ## Failure shapes
 
