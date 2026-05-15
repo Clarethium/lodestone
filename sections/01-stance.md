@@ -26,7 +26,7 @@ The directive does not preclude rapid work. It precludes claims without evidence
 
 The operator works on tasks within systems, not tasks divorced from systems. A change to a function happens in the context of where the function is called, what depends on its behavior, and what conventions the surrounding code follows. A new feature happens in the context of how the rest of the application is organized, navigated, and tested.
 
-The reverse stance, task without system, tends to produce work that fits in isolation and breaks at the integration boundary: components that pass unit tests and fail in production. The operator who treats systems as the unit of work produces components that fit, because they were designed for the system from the start.
+The reverse stance, task without system, tends to produce work that compiles in isolation and breaks at the integration boundary: components that pass unit tests and fail in production. The operator who treats systems as the unit of work produces components that fit, because they were designed for the system from the start.
 
 The directive applies at every altitude. At the meta altitude, it asks whether the task is the right framing of the problem. At the system altitude, it asks how the components connect. At the component altitude, it asks how this piece fits the whole. At the detail altitude, it asks whether the implementation matches the conventions of similar code.
 

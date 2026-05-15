@@ -2,7 +2,7 @@
 
 Working with AI systems is a practice. Lodestone specifies the practice.
 
-This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses operator discipline: the meta-skills that hold across model generations more than they depend on any specific model's capability. Some specific failure shapes in Section V are more time-bound, but the underlying disciplines are not.
+This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses operator discipline: the meta-skills that hold across model generations rather than depend on any specific model's capability. Some specific failure shapes in Section V are more time-bound, but the underlying disciplines are not.
 
 A forward-looking annex on collective practice extends the discipline across operators. The annex is provisional: its claims are reasoned designs awaiting validation by multi-operator pilot, not validated practice. It is held separately to keep its provisional status structurally visible.
 
@@ -39,8 +39,6 @@ These artifacts are designed to compose. They can also be used independently. An
 
 Lodestone is not a curriculum. It does not progress the operator from beginner to advanced; it specifies a practice that a skilled operator can adopt and refine.
 
-Lodestone is not a manifesto. It does not claim that AI changes everything, or that the practices specified here are universal. It specifies a practice that, in the author's work, has produced better work; whether that practice generalizes more broadly is an empirical question.
-
-The document's specificity and abstraction are both intentional: specific where the rules hold across operators, abstract where adaptation is the right move.
+Lodestone is not a manifesto. It does not claim that AI changes everything, or that the practices specified here are universal. It specifies a practice that, in the author's experience, has produced better work; whether that practice generalizes more broadly is an empirical question. The document's specificity and abstraction are both intentional: specific where the rules hold across operators, abstract where adaptation is the right move.
 
 Lodestone is not a comprehensive treatment of the methodological tradition it draws on. The Influences section names the works that informed this document's structure and vocabulary; engagement with each is provisional and will deepen in subsequent versions.

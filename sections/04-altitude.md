@@ -36,7 +36,7 @@ The check has two triggers:
 
 **Entropy signals.** Conditions that flag drift before the cadence trigger fires. The operator runs the check immediately when an entropy signal occurs.
 
-The entropy signals are observable conditions that drift has occurred:
+The entropy signals are conditions that flag drift:
 
 - A long response that does not reference the goal of the work
 - Three or more iterations on the same narrow problem
