@@ -23,6 +23,10 @@ See [OUTLINE.md](OUTLINE.md) for the manuscript table of contents.
 
 A forward-looking annex on [collective practice](forward-looking/01-collective-practice.md) extends Lodestone's discipline into territory not yet validated by multi-operator pilot. The annex is provisional, held separately from the canonical sections, and evolves at its own pace as pilot evidence accumulates.
 
+## Tools
+
+A reference Claude Code `PreToolUse` hook that surfaces Lodestone protocols at the moment of action is in [tools/](tools/). It detects action patterns matching Lodestone concepts (authentication surface, database surface, git write operations, deletion, Pattern Study triggers) and surfaces the relevant protocol guidance to the assistant's context. Composes with [cma](https://github.com/Clarethium/cma)'s reference hook: cma surfaces past captures, the Lodestone hook surfaces methodology protocols. See [tools/README.md](tools/README.md) for installation and detection rules.
+
 ## Companions
 
 Lodestone composes with the other open Clarethium artifacts:
