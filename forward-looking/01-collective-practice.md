@@ -12,7 +12,7 @@ Collective practice records two kinds of material derived from individual captur
 
 **Specimens.** A specimen is the abstracted form of a miss. The operator's local miss carries paths, code, and project-identifying detail; a specimen carries the failure's shape with that detail removed. The shape preserves: the failure mode it instantiates, the surface where it occurred, the structural pattern of how the failure formed, and the prevention that would have caught it. The shape removes: the operator's filesystem, the operator's project, the operator's identity.
 
-A specimen is useful to other operators because failure shapes generalize. The operator who wrote into the wrong tree because a familiar path felt safe is the same shape as the operator who reused a stale config because a familiar value felt safe. The specific paths and configs are local; the shape is shared.
+A specimen is useful to other operators when failure shapes generalize. The operator who wrote into the wrong tree because a familiar path felt safe is the same shape as the operator who reused a stale config because a familiar value felt safe. The specific paths and configs are local; the shape is shared.
 
 **Narratives.** A narrative is a longer, sanitized account of a specimen's circumstances, written deliberately by the operator and reviewed for identifying detail. Narratives are the textbook material of collective practice: cited in operator manuals, discussed in operator training, used to construct evaluation cases. Specimens carry pattern; narratives carry texture.
 
@@ -74,9 +74,9 @@ Not all contributions to a corpus serve the same role. The discipline distinguis
 
 **Canonical specimens.** A small subset of curated specimens promoted to canonical status by sustained editorial agreement. Canonical specimens become benchmark items, definitional examples in reference works, and primary teaching cases. Promotion is rare; canonical status is essentially permanent.
 
-The tiered structure mirrors the curation pattern of mature reference disciplines. Medical case literature has open case reports, peer-reviewed cases, and textbook canonical examples. Legal practice has reported cases, precedential cases, and landmark cases. The pattern works because consumers at different stages of practice need different quality bars. Early operators benefit from broad open contribution; experienced operators benefit from curated material; canonical material anchors training and benchmark construction.
+The tiered structure mirrors the curation pattern of mature reference disciplines. Medical case literature has open case reports, peer-reviewed cases, and textbook canonical examples. Legal practice has reported cases, precedential cases, and landmark cases. The pattern works in mature reference disciplines because consumers at different stages of practice need different quality bars; the tiered structure here is designed to support similar differentiation. Early operators benefit from broad open contribution; experienced operators benefit from curated material; canonical material anchors training and benchmark construction.
 
-Tiers are not gates on contribution. Every signed submission enters at the open tier. Promotion upward is a curation event, not a contribution event, and depends on review process rather than on the submitter's standing. The structure preserves the openness commitment above while keeping the path to a textbook-grade canon at the top of the curation stack open.
+Tiers are not gates on contribution. Every signed submission enters at the open tier. Promotion upward is a curation event, not a contribution event, and depends on review process rather than on the submitter's standing. The structure is designed to preserve the openness commitment above while keeping the path to a textbook-grade canon at the top of the curation stack open.
 
 ## Aging
 

@@ -2,7 +2,7 @@
 
 Working with AI systems is a practice. Lodestone specifies the practice.
 
-This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses the part of the work that does not change with model capability: the operator's discipline.
+This document is a reference, not a tutorial. It defines the components of disciplined work with AI systems: the stance, the loop, the calibration, the altitude, the failure shapes, the quality levels, the surface protocols, and the compound practice. It does not teach how to use specific AI tools, nor does it predict which models will be capable next quarter. It addresses operator discipline: the meta-skills that hold across model generations more than they depend on any specific model's capability. Some specific failure shapes in Section V are more time-bound, but the underlying disciplines are not.
 
 A forward-looking annex on collective practice extends the discipline across operators. The annex is provisional: its claims are reasoned designs awaiting validation by multi-operator pilot, not validated practice. It is held separately so the canonical sections preserve their authority.
 
@@ -21,6 +21,8 @@ The document can be read in order or used as a reference. Read in order, it buil
 Used as a reference, each section is independent. The Glossary lists every load-bearing term in one place; cross-references throughout the document point to the section that treats each term in depth.
 
 This is a working reference. Where the document specifies, the wording is intentional and rewards careful reading. Where it leaves room for adaptation to specific contexts, tools, or projects, it does so explicitly.
+
+Specific numbers in the methodology (three similar features for Pattern Study, five files for the five-file rule, three to five turns for the altitude-check cadence, ten failure shapes) are heuristic anchors based on practice rather than optimized parameters; reasonable variation does not break the rule.
 
 ## The body it sits in
 

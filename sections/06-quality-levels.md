@@ -36,7 +36,7 @@ Additional specificity tests:
 
 **Is the information density per surface intentional?** Default implementations distribute information uniformly. Specific implementations recognize where the operator's attention will land and put information density there.
 
-**What chains compound through this work?** Specific work participates in the chains the broader system supports. Generic work stands alone.
+**What longer flows pass through this work?** Specific work participates in the flows the system supports (a user's progression, a data lifecycle, a development cycle). Generic work stands alone.
 
 **Does the work adapt to context or state?** A specific implementation reads the current state and shapes itself accordingly. A generic implementation produces the same output regardless of state.
 
