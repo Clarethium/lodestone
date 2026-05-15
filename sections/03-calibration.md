@@ -1,6 +1,6 @@
 # III. Calibration
 
-Calibration is matching stance to actual conditions. The stance described in Section I is right disposition. The Loop described in Section II is right method. Calibration is choosing which tools and how much rigor to apply to the work currently in front of the operator. Wrong stance applied to right conditions fails. Right stance applied to wrong conditions fails. Calibration is the prerequisite for everything else in this document to do useful work.
+Calibration is matching stance to actual conditions. The stance described in Section I is right disposition. The Loop described in Section II is right method. Calibration is choosing which tools and how much rigor to apply to the work currently in front of the operator. Wrong stance applied to right conditions fails. Right stance applied to wrong conditions fails. Calibration is a prerequisite for the methodology to do useful work.
 
 Two dimensions describe the conditions: the level of uncertainty, and the type of uncertainty. The first asks how much the operator already knows; the second asks whether the answer exists or is being constructed. The two together determine the appropriate stance.
 
@@ -44,7 +44,7 @@ A High-search problem is systematic exploration with documentation of what was c
 
 Unknown is the level at which the type is not yet identifiable. Before treating a problem as Search or Generate, the operator confirms that the type is identifiable. If it is not, the work is to discover what the problem is, not to attempt either approach.
 
-The cost of miscalibration is paid in the work. Treating a High-generate problem as Low-generate produces an answer that arrives quickly and fails to reach the territory the problem opened. Treating a Low-search problem as High-generate produces wandering when a quick lookup would have settled the question. Most calibration failures are not about getting the level wrong by one step; they are about getting the type wrong, treating search as generate or generate as search.
+The cost of miscalibration is paid in the work. Treating a High-generate problem as Low-generate produces an answer that arrives quickly and fails to reach the territory the problem opened. Treating a Low-search problem as High-generate produces wandering when a quick lookup would have settled the question. The type/level distinction matters more than it might seem: a one-step level error tends to be self-correcting, but treating search as generate (or vice versa) sends the work in the wrong direction.
 
 ## Calibration when stuck
 
@@ -66,6 +66,6 @@ Frame-stuck is the state where multiple approaches keep failing the same way. Th
 
 The recovery is saturation and return. Leave the failing frame entirely. Move into a different domain: different code, different problem, different kind of work, different surface. Saturate there until the original frame has lost its grip. Return to the original problem with the framing space open again.
 
-Saturation and return is not procrastination. It is the deliberate use of unrelated work to release the frame that has captured the operator's reasoning. The mechanism is that frames are sticky inside their context; they release when the context changes substantially. The unrelated work is the context change.
+Saturation and return is not procrastination. It is the deliberate use of unrelated work to release the frame that has captured the operator's reasoning. The working hypothesis is that frames are sticky inside their context and release when the context changes substantially; the unrelated work is the deliberate context change.
 
-The returning operator usually does not bring an answer. They bring a different question. The different question is what the original frame could not produce. Whether the question leads to an answer is downstream; what saturation and return produces is the freedom to ask it.
+The returning operator usually does not bring an answer. They bring a different question. The different question is one that did not surface inside the original frame. Whether the question leads to an answer is downstream; what saturation and return produces is the freedom to ask it.

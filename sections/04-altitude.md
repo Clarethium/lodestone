@@ -1,12 +1,12 @@
 # IV. Altitude
 
-Altitude is the level at which reasoning currently operates. Where calibration in Section III matches stance to conditions, altitude matches scope to the question being asked. Without explicit attention to altitude, long reasoning drifts toward detail and loses contact with why the work matters. The altitude check is the periodic re-anchor that restores breadth.
+Altitude is the level at which reasoning currently operates. Where calibration in Section III matches stance to conditions, altitude matches scope to the question being asked. Without explicit attention to altitude, long reasoning tends to drift toward detail and lose contact with why the work matters. The altitude check is the periodic re-anchor that restores breadth.
 
 ## Why long reasoning drifts
 
-Long reasoning drifts toward detail. Each turn engages a smaller problem than the turn before. The operator solves what is directly in front of them. The model output reinforces concrete engagement with code and specifics. Without explicit re-anchoring, attention narrows naturally. The original goal can fade across many turns. By turn fifty, the operator is solving micro-issues with no fresh contact with the question that opened the work.
+Long reasoning tends to drift toward detail. Each successive turn often engages a smaller problem than the turn before. The operator solves what is directly in front of them. The model output reinforces concrete engagement with code and specifics. Without explicit re-anchoring, attention narrows naturally. The original goal can fade across many turns. After many turns, the operator can be solving micro-issues with no fresh contact with the question that opened the work.
 
-The drift is not a failure of intelligence or attention. It is a structural property of long-context work, intensified by the AI environment where each model response is concrete and arrives quickly. Drift requires intervention; it does not stop on its own.
+The drift is not a failure of intelligence or attention. It is a recurrent pattern in long-context work, intensified by the AI environment where each model response is concrete and arrives quickly. Drift typically requires intervention; it does not reliably correct itself.
 
 ## The four altitudes
 

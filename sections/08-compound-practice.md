@@ -1,6 +1,6 @@
 # VIII. Compound Practice
 
-The Record step of the Loop (Section II) captures what the operator has learned. Compound practice is what those captures do next: surface relevant learning at the moment of future action, catch repeating failures before they happen, and accumulate evidence that the loop is closing. Without surfacing, recording produces an archive that is rarely read. With surfacing, the archive becomes a living instrument that catches repeats before they happen.
+The Record step of the Loop (Section II) captures what the operator has learned. Compound practice is what those captures do next: surface relevant learning at the moment of future action, catch repeating failures before they happen, and accumulate evidence that the loop is closing. Without surfacing, recording produces an archive that tends to remain unread. With surfacing, the archive becomes a living instrument that catches repeats before they happen.
 
 Compound practice is deliberate practice (K. Anders Ericsson) shaped to the operator-AI loop. Like deliberate practice in other crafts, it is structured around feedback, oriented toward identified weaknesses (the captured misses), and instrumented for whether the practice produces improvement (recurrence detection and prevention captures, described below). Ericsson's deliberate practice is canonically coach-mediated: a teacher observes the practitioner, identifies the next weakness to address, and designs the corrective exercise. Compound practice replaces the coach with the surfacing layer specified below. Feedback, weakness-orientation, and improvement instrumentation are all preserved; the human coach becomes a context-matching algorithm operating over the operator's own record. What distinguishes compound practice from simple journaling is the surfacing layer: captures return at the moment future actions match their context, turning the archive into an active instrument rather than a passive record.
 
@@ -10,9 +10,9 @@ The mechanism is described in this section. The implementation is cma (the execu
 
 Compound practice records four kinds of material:
 
-**Misses.** Failures that occurred. A miss is a specific case where the work fell short of what it intended. Recording a miss preserves the texture of the failure: what the operator was about to do, what they did instead after correction, the conditions that produced the drift. Misses are the most valuable captures because they reveal where the operator's discipline is currently weakest.
+**Misses.** Failures that occurred. A miss is a specific case where the work fell short of what it intended. Recording a miss preserves the texture of the failure: what the operator was about to do, what they did instead after correction, the conditions that produced the drift. Misses are particularly valuable because they reveal where the operator's discipline is currently weakest.
 
-**Decisions.** Architectural and strategic choices made during the work. A decision is recorded with its rationale and the alternatives considered. Decisions are the captures most often lost to time; without them, the operator returns to a system months later and cannot reconstruct why it is shaped the way it is.
+**Decisions.** Architectural and strategic choices made during the work. A decision is recorded with its rationale and the alternatives considered. Decisions are easily lost to time: without them, the operator returns to a system months later and cannot reconstruct why it is shaped the way it is.
 
 **Rejections.** Options considered and ruled out. A rejection is recorded with the reason for elimination and the conditions that would warrant revisiting. Rejections survive context compaction in long sessions and prevent the operator from silently rebuilding what was deliberately not built.
 
@@ -40,7 +40,7 @@ The compound loop is the cycle that turns recorded captures into prevented failu
 4. **Record prevention.** The catch is itself recorded as a prevention, linked to the original capture. The prevention is evidence that the warning was effective.
 5. **Strengthen.** The prevention reinforces the warning's weight. Captures with proven prevention effect rise in surfacing priority. Captures that surface but never produce preventions decline; either the capture is no longer relevant, or the warning text is not landing.
 
-Each iteration strengthens the next. After enough iterations, a class of failure that once recurred regularly stops recurring. The operator discovers this not by reading captures but by the absence of the failure in current work.
+Each iteration strengthens the next. After enough iterations, a class of failure that once recurred regularly can stop recurring. The operator notices this not by reading captures but by the absence of the failure in current work.
 
 ## Recurrence and decision lifecycle
 

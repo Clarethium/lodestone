@@ -10,7 +10,7 @@ The first step is to grasp the system and the task. Read the actual code in the 
 
 The step is complete when the operator can describe, without consulting the AI: what the system does in the relevant area, what calls and depends on the area being changed, where the code that implements similar features lives, and what the task adds to or modifies in that picture.
 
-The typical failure of this step is to declare it complete when the task feels familiar, rather than when the system is grasped. Familiarity is not understanding. The cost of advancing without understanding is paid in the Build and Verify steps as rework, and again in production as integration failures.
+The typical failure of this step is to declare it complete when the task feels familiar, rather than when the system is grasped. Familiarity is not understanding. Advancing without understanding tends to surface as rework in the Build and Verify steps, and as integration failures in production.
 
 ## Build
 

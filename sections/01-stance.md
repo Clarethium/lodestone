@@ -2,9 +2,9 @@
 
 Stance is the operator's disposition toward AI work, prior to any specific task. It is prior to method and prior to tactic. The stance determines how the operator interprets uncertainty, how they treat AI output, how they decide when to verify, and how they recognize their own drift.
 
-The methodology frames operator-AI work as a coupled cognitive system rather than a tool-use relationship: the operator and the model engage in a continuous loop where each shapes the other's contribution. The framing extends Edwin Hutchins's distributed cognition (*Cognition in the Wild*, 1995) and Andy Clark's extended-mind thesis (*Supersizing the Mind*, 2008) to the operator-AI domain; the underlying claim that cognition is a property of human-tool-environment systems carries over directly. Where Hutchins's distributed cognition models cognition across multiple human agents and shared instruments, and Clark's extended mind models a single agent's cognition reaching into passive external aids, operator-AI work occupies a structural position distinct from both: a single operator coupled with a generative partner that produces hypotheses requiring evaluation rather than tools storing memory or peers contributing reasoning. The discipline this section names is what makes that coupling productive rather than confounding. Stance is the operator's contribution to that system; it determines what the system as a whole produces.
+The methodology frames operator-AI work as a coupled cognitive system rather than a tool-use relationship: the operator and the model engage in a continuous loop where each shapes the other's contribution. The framing extends Edwin Hutchins's distributed cognition (*Cognition in the Wild*, 1995) and Andy Clark's extended-mind thesis (*Supersizing the Mind*, 2008) to the operator-AI domain; the underlying claim that cognition is a property of human-tool-environment systems carries over directly. Where Hutchins's distributed cognition models cognition across multiple human agents and shared instruments, and Clark's extended mind models a single agent's cognition reaching into passive external aids, operator-AI work occupies a structural position distinct from both: a single operator coupled with a generative partner that produces hypotheses requiring evaluation rather than tools storing memory or peers contributing reasoning. Stance is the operator's contribution to that coupling; it shapes what the system as a whole produces.
 
-The operator stance has four directives. They are simple to state and difficult to hold under pressure. Most failures in operator-AI work come from a directive being heard once and not held in the moment when it would prevent the failure.
+The operator stance has four directives. They are simple to state and difficult to hold under pressure. The work of stance is not learning the directives but holding them when conditions favor abandoning them.
 
 ## Frame-awareness
 
@@ -26,7 +26,7 @@ The directive does not preclude rapid work. It precludes claims without evidence
 
 The operator works on tasks within systems, not tasks divorced from systems. A change to a function happens in the context of where the function is called, what depends on its behavior, and what conventions the surrounding code follows. A new feature happens in the context of how the rest of the application is organized, navigated, and tested.
 
-The reverse stance, task without system, produces work that compiles in isolation and breaks in integration. The operator who treats tasks as isolated produces components that work in unit tests and fail in production. The operator who treats systems as the unit of work produces components that fit, because they were designed for the system from the start.
+The reverse stance, task without system, tends to produce work that fits in isolation and breaks at the integration boundary: components that pass unit tests and fail in production. The operator who treats systems as the unit of work produces components that fit, because they were designed for the system from the start.
 
 The directive applies at every altitude. At the meta altitude, it asks whether the task is the right framing of the problem. At the system altitude, it asks how the components connect. At the component altitude, it asks how this piece fits the whole. At the detail altitude, it asks whether the implementation matches the conventions of similar code.
 
@@ -40,7 +40,7 @@ The shape of the directive is: study before invention. Pattern Study (Section VI
 
 ## Prevention over detection
 
-The operator prefers preventing a failure to detecting it after the fact. Detection requires watching for symptoms; prevention requires understanding root causes. Prevention scales to failures that have not yet occurred; detection only catches failures that have happened before.
+The operator prefers preventing a failure to detecting it after the fact. Detection requires watching for symptoms; prevention requires understanding root causes. Prevention can scale to failures that have not yet occurred by addressing root causes; detection requires recognizable symptoms.
 
 The directive shapes how the operator records what they learn. A failure that is detected and not understood will recur. A failure that is detected, understood, and surfaced as a warning before the next operation that could repeat it will not. Compound practice (Section VIII) describes the mechanism. The stance is what makes the operator use it.
 

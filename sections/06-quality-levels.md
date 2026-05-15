@@ -52,4 +52,4 @@ The Exceptional version: the operator notices that the user's data has a structu
 
 The structure test asks the operator to look at the work and answer: if I replaced this user's data with another user's data, would the work look different in shape, or only in content? Different in shape means the structure is specific. Different only in content means the structure is generic.
 
-The test is asymmetric. Generic work cannot become specific through more polish; it requires going back to the structure question and answering it differently. Specific work, structured around real user data, has a path to Exceptional that template-based work does not, because the structure does work the template alone cannot.
+The test is asymmetric. Generic work rarely becomes specific through more polish; it usually requires going back to the structure question and answering it differently. Specific work, structured around real user data, has a path to Exceptional that template-based work does not, because the structure does work the template alone cannot.

@@ -77,7 +77,7 @@ When the operator notices the file count is low, the response is not to invent f
 The fresh-eyes test operationalizes the Done step of the Loop (Section II). Before declaring done, the operator approaches the work as if encountering it for the first time:
 
 1. Clear context. Open the application or codebase from a fresh state.
-2. Find the feature via the UI only, without typing the URL or using a bookmark. If the feature cannot be found, the integration is incomplete.
+2. Find the feature via the UI only, without typing the URL or using a bookmark. If the feature cannot be found and is meant to be reachable from the UI, the integration is incomplete.
 3. Complete the workflow end-to-end. Follow the user's path from start to finish.
 4. Check the console, network, and logs for errors. Silent failures are still failures.
 5. Ask: would I ship this now?

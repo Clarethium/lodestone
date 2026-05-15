@@ -8,11 +8,11 @@ A forward-looking annex on collective practice extends the discipline across ope
 
 ## Who this is for
 
-The audience is senior operators: people whose work with AI systems is shaped through repeated exchange with the model, and whose output quality depends on the discipline they bring to that exchange. Engineers, researchers, designers, writers, analysts. The work is recognizable. Each unit of output develops over many turns with the model; the model is capable and the work is non-trivial; quality varies in ways that track the operator's discipline as much as the model's capability.
+The audience is senior operators: people whose work with AI systems is shaped through repeated exchange with the model, and whose output quality depends on the discipline they bring to that exchange. Engineers, researchers, designers, writers, analysts. The work is recognizable. Each unit of output develops over many turns with the model; the model is capable and the work is non-trivial; output quality emerges from both the model's capability and the discipline the operator brings to the loop.
 
 This document does not address operator skill at the level of "how to write a prompt." It addresses operator skill at the level of how to remain coherent across long sessions, how to detect when work is drifting before it fails, and how to make each piece of work compound on prior learning.
 
-If you are new to working with AI, this is not the place to start. If you have worked with AI long enough to recognize the failure shapes named in Section V, this document is the practice you have been operating without naming.
+If you are new to working with AI, this is not the place to start. If you have worked with AI long enough to recognize the failure shapes named in Section V, much of what this document names will already be familiar; the document gives the practice an explicit vocabulary.
 
 ## How to read this
 
@@ -37,8 +37,8 @@ These artifacts are designed to compose. They can also be used independently. An
 
 Lodestone is not a curriculum. It does not progress the operator from beginner to advanced; it specifies a practice that a skilled operator can adopt and refine.
 
-Lodestone is not a manifesto. It does not claim that AI changes everything, or that the practices specified here are universal. It specifies a practice that has, for the operators this document addresses, produced better work; whether that practice generalizes more broadly is an empirical question.
+Lodestone is not a manifesto. It does not claim that AI changes everything, or that the practices specified here are universal. It specifies a practice that, in the author's work, has produced better work; whether that practice generalizes more broadly is an empirical question.
 
-Lodestone is not a snapshot of one operator's habits. The document's specificity and abstraction are both intentional: specific where the rules hold across operators, abstract where adaptation is the right move.
+The document's specificity and abstraction are both intentional: specific where the rules hold across operators, abstract where adaptation is the right move.
 
 Lodestone is not a comprehensive treatment of the methodological tradition it draws on. The Influences section names the works that informed this document's structure and vocabulary; engagement with each is provisional and will deepen in subsequent versions.
