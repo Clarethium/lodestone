@@ -25,7 +25,12 @@ A forward-looking annex on [collective practice](forward-looking/01-collective-p
 
 ## Tools
 
-A reference Claude Code `PreToolUse` hook that surfaces Lodestone protocols at the moment of action is in [tools/](tools/). It detects action patterns matching Lodestone concepts (authentication surface, database surface, git write operations, deletion, Pattern Study triggers) and surfaces the relevant protocol guidance to the assistant's context. Composes with [cma](https://github.com/Clarethium/cma)'s reference hook: cma surfaces past captures, the Lodestone hook surfaces methodology protocols. See [tools/README.md](tools/README.md) for installation and detection rules.
+Reference integrations that deliver pieces of the methodology into an operator's workflow are in [tools/](tools/):
+
+- A Claude Code `PreToolUse` hook that surfaces Lodestone protocols at the moment of action (authentication surface, database surface, git write operations, deletion, Pattern Study triggers). Composes with [cma](https://github.com/Clarethium/cma)'s reference hook.
+- A cross-reference document mapping Lodestone concepts (Verified/Not verified, Quality theater, Assumption over verification, Default implementation) to [Touchstone](https://github.com/Clarethium/touchstone) measurement layers, with runnable examples.
+
+See [tools/README.md](tools/README.md) for installation and details.
 
 ## Companions
 

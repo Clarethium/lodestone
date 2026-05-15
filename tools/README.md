@@ -1,8 +1,8 @@
 # Lodestone tools
 
-Lodestone-aware integrations that surface methodology protocols at the moment of action.
+Lodestone-aware integrations that deliver pieces of the methodology into an operator's workflow.
 
-These are reference implementations, not the methodology itself. The methodology lives in the canonical sections; these tools deliver pieces of it into an operator's workflow.
+These are reference implementations, not the methodology itself. The methodology lives in the canonical sections; the tools here either surface protocols at the moment of action or document how Lodestone concepts map to existing measurement substrates.
 
 ## What's here
 
@@ -65,8 +65,14 @@ If you already have cma's `PreToolUse` hook installed, add this as an additional
 
 The detection rules are intentionally simple to keep the surface conservative. As the operator encounters false positives (cues that surface where the methodology does not apply) or false negatives (situations where the cue should have fired but did not), adjust the regex patterns in `lodestone-pretool-hook.sh` directly. The script is single-file and readable; tuning is local.
 
+### `lodestone-via-touchstone.md`
+
+A cross-reference document mapping Lodestone methodology concepts to [Touchstone](https://github.com/Clarethium/touchstone) measurement layers. Where a Lodestone concept can be operationalized via Touchstone (Verified/Not verified, Quality theater, Assumption over verification, Default implementation), the mapping is named with a runnable example using `clarethium_touchstone`'s Python API.
+
+Concepts that describe operator behavior rather than output structure (the stance directives, altitude, calibration, most failure shapes) are not directly measurable through Touchstone; the document names the limit honestly.
+
 ## Status
 
-v1, reference implementation. Five detection rules. The hook is not under the public-canon discipline (it is tooling that delivers methodology into a workflow, not methodology content); the underlying protocols cited are Lodestone canonical sections.
+v1, reference implementations. Five detection rules in the hook; four operationalized concept mappings in the Touchstone cross-reference. The tools are not under the public-canon discipline (they deliver methodology into workflows or measurement substrates, not methodology content); the underlying protocols cited are Lodestone canonical sections.
 
-Additional integrations (shell wrappers, IDE plugins, MCP servers, CI hooks) are out of scope for v1. The composition pattern with cma's reference integrations provides the template for any future ones.
+Additional integrations (shell wrappers, IDE plugins, MCP servers, CI hooks, a runnable scoring CLI) are out of scope for v1. The composition pattern with cma's reference integrations and the Touchstone API surface provide the templates for future ones.
