@@ -32,6 +32,10 @@ Reference integrations that deliver pieces of the methodology into an operator's
 
 See [tools/README.md](tools/README.md) for installation and details.
 
+## Specimens
+
+[specimens/](specimens/) seeds the recognition library that Klein's RPD lineage (Section V) calls for. Each specimen instantiates one failure shape in a form that lets an external reader recognize the pattern in their own work. The v1 corpus starts with one illustrative specimen as format anchor; abstracted-from-capture specimens contributed by operators running cma are the intended growth path. See [specimens/README.md](specimens/README.md) for format and contribution shape.
+
 ## Companions
 
 Lodestone composes with the other open Clarethium artifacts:
