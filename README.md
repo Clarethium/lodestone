@@ -29,6 +29,7 @@ Reference integrations that deliver pieces of the methodology into an operator's
 
 - A Claude Code `PreToolUse` hook that surfaces Lodestone protocols at the moment of action (authentication surface, database surface, git write operations, deletion, Pattern Study triggers). Composes with [cma](https://github.com/Clarethium/cma)'s reference hook.
 - A cross-reference document mapping Lodestone concepts (Verified/Not verified, Quality theater, Assumption over verification, Default implementation) to [Touchstone](https://github.com/Clarethium/touchstone) measurement layers, with runnable examples.
+- A runnable `lodestone-score` CLI that takes a work file and a source file, runs Touchstone, and emits a Lodestone score report with threshold-based concern flags (exit code 1 if any concept tripped, 0 if clean; usable in CI).
 
 See [tools/README.md](tools/README.md) for installation and details.
 

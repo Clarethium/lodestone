@@ -71,8 +71,22 @@ A cross-reference document mapping Lodestone methodology concepts to [Touchstone
 
 Concepts that describe operator behavior rather than output structure (the stance directives, altitude, calibration, most failure shapes) are not directly measurable through Touchstone; the document names the limit honestly.
 
+### `lodestone-score.py`
+
+A runnable CLI that takes a work file and a source file, calls `clarethium_touchstone.measure()`, and formats the result as a Lodestone score report covering the four operationalized concepts from `lodestone-via-touchstone.md`. Each concept gets its measurement, a threshold check, and a status (within threshold or concern).
+
+```bash
+python3 tools/lodestone-score.py --work path/to/work.txt --source path/to/source.txt
+```
+
+Exit codes: `0` if all measurable concepts are within thresholds; `1` if at least one concern threshold tripped (useful in CI); `2` on error (file not found, Touchstone not installed, measurement raised).
+
+Thresholds are tunable per invocation (`--projected-threshold`, `--gap-threshold`, `--unsourced-threshold`). Defaults are heuristic; refine to context.
+
+Requires `clarethium_touchstone`. The script prints install instructions if the import fails.
+
 ## Status
 
-v1, reference implementations. Five detection rules in the hook; four operationalized concept mappings in the Touchstone cross-reference. The tools are not under the public-canon discipline (they deliver methodology into workflows or measurement substrates, not methodology content); the underlying protocols cited are Lodestone canonical sections.
+v1 reference implementations. Five detection rules in the hook; four operationalized concept mappings in the Touchstone cross-reference; one runnable scoring CLI on top of the mapping. The tools deliver methodology into workflows or measurement substrates, not methodology content; the underlying protocols cited are Lodestone canonical sections.
 
-Additional integrations (shell wrappers, IDE plugins, MCP servers, CI hooks, a runnable scoring CLI) are out of scope for v1. The composition pattern with cma's reference integrations and the Touchstone API surface provide the templates for future ones.
+Additional integrations (shell wrappers, IDE plugins, MCP servers, CI hooks, JSON output mode for `lodestone-score`) are out of scope for v1. The composition pattern with cma's reference integrations and the Touchstone API surface provide the templates for future ones.
