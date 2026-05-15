@@ -14,26 +14,17 @@ A high-risk surface is one where errors are difficult to detect, hard to recover
 
 **System analysis.** Recommendations to consolidate, refactor, or restructure. The risk is asymmetric: a wrong recommendation that gets adopted is expensive to undo. The discipline: distinguish hypothesis from verified claim. State the hypothesis explicitly, state evidence for and against, state what was actively done to disconfirm. Empty disconfirming evidence is incomplete analysis. Actionable recommendations require a verified status; observations that lack verification stay observations.
 
-**Authentication, authorization, and payments.** Errors here have user-facing consequences ranging from privacy breach to financial loss. Two checklists apply.
+**Authentication, authorization, and payments.** Errors here have user-facing consequences ranging from privacy breach to financial loss. The methodology-level discipline:
 
-The auth checklist:
+- Validate inputs at the boundary, by allow-list rather than deny-list
+- Require both authentication and resource-specific authorization on protected routes
+- Rate-limit sensitive endpoints
+- Treat secrets as configuration, not code
+- Audit-log sensitive operations
+- Never trust client-side state for security decisions
+- Never store credentials in reversible form
 
-- Input validation by allow-list, not deny-list
-- Parameterized queries only
-- CSRF tokens on state-changing requests
-- Authentication on all protected routes
-- Authorization on the specific resource being accessed
-- Rate limiting on login, signup, and password endpoints
-- Secrets in environment variables, never in code
-- Audit logging for sensitive operations
-
-The auth anti-patterns:
-
-- No plain-text or reversible-encryption passwords
-- No JWT without expiration
-- No hardcoded roles or permissions
-- No trusting client-side auth state
-- No user IDs in URLs without an auth check
+Tactical specifics (parameterized queries, CSRF tokens, JWT expiration, route patterns, the full catalog of anti-patterns) are canonicalized in OWASP and similar references; the discipline above is the methodology-level rule, not a substitute for the tactical canon.
 
 **Git write operations.** Operations that modify version control state can lose work or rewrite published history. The discipline: check status before any write; stage explicit files only, never `git add .` or `git reset HEAD`; ask before touching files the operator did not modify; when stuck, stop and state what is seen rather than guessing.
 
